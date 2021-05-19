@@ -1,0 +1,1151 @@
+Questions,Category
+"Can NS-3 simulator be used to simulate Fat tree,BCube,porland ?",Analysis
+What are the simulators available for quantum key distribution?,Knowledge
+Explain the Different layers of the OSI model.,Comprehension
+How do you implement routing protocol for veins (omnet++)?,Analysis
+What is the best tool/way for fast parsing of ~80 GB pcap.gz files?,Knowledge
+Difference between bit rate and baud rate.,Comprehension
+What is usage of Sequence Number in Reliable Transmission?,Knowledge
+Define Network?,Knowledge
+Name the factors that affect the performance of the network?,Knowledge
+"Define the terms Unicasting, Multiccasting and Broadcasting",Knowledge
+Describe at one disadvantage of a peer to peer network.,Comprehension
+How can you manage a network using a router?,Application
+One way of securing a network is through the use of passwords. What can be considered as good passwords?,Analysis
+What happens when you use cables longer than the prescribed length?,Knowledge
+You need to connect two computers for file sharing. Is it possible to do this without using a hub or router?,Evaluation
+"When you move the NIC cards from one PC to another PC, does the MAC address gets transferred as well?",Analysis
+How are IP addresses arranged and displayed?,Knowledge
+"When troubleshooting computer network problems, what common hardware-related
+ problems can occur?",Analysis
+How does dynamic host configuration protocol aid in network administration?,Application
+Explain profile in terms of networking concept?,Comprehension
+How do bridges pass spanning tree information between themselves?,Application
+Describe a recent short term stressful situation and how you managed it.,Comprehension
+Describe what a VPN is and how it works.,Comprehension
+What do you use to write documentation? Editor? Mail reader?,Knowledge
+How do you manage multiple concurrent high level projects?,Analysis
+"Have you worked in an assignment based environment, e.g. work request/trouble ticket system,
+ and if so, describe that environment.",Analysis
+"I can?t seem to access the Internet, don?t have any access to the corporate network and on ipconfig my address is 169.254.*.*. What happened?",Analysis
+"We?ve installed a new Windows-based DHCP server, however, the users do not seem to be getting DHCP leases off of it. Comment.",Evaluation
+How do cryptography-based keys ensure the validity of data transferred across the network?,Analysis
+Should we deploy IPSEC-based security or certificate-based security?,Evaluation
+"You need to retrieve a file from the file server for your word processing application, which layer of the OSI model is responsible for this function?",Application
+Which memory component on a Cisco router contains the dynamic system configuration?,Knowledge
+Which combination of keys will allow you to view the previous commands that you typed at the router?,Knowledge
+Is the address bus unidirectional?,Analysis
+Compare Error Detection and Error Correction:,Comprehension
+How do you go to privileged mode? How do you switch back to user mode?,Knowledge
+Brielfly explain the conversion steps in data encapsulation.,Comprehension
+How have you gained commitment from your team?,Analysis
+What are some basic ways to speed up network performance?,Knowledge
+Can you work as a team?,Analysis
+"Tell me, you can ping servers on the subnet your workstation is on, but not other subnets. What is wrong?",Analysis
+"Explain how to find real IP address of the client that is connecting with a server, if the client is using Proxy",Application
+Can we communicate by using only the MAC address in Same network?,Analysis
+Suppose user calls in and complains that her computer and network is running very slow. How would you go about troubleshooting it?,Application
+Can a machine with a single DNS name have multiple IP addresses? If yes then how could this occur?,Evaluation
+What is the difference between simplex and duplex?,Comprehension
+What is Active Directory in Computer Networks?,Knowledge
+Explain in detail about the working of SWITCH in Networking?,Comprehension
+Suppose If you are given the IP address can u tell how many computers can be connected?What do you look at?,Analysis
+What is Beaconing in Computer Networks?,Knowledge
+What is the function of Transmission Control Block?,Knowledge
+what is the difference between interior and exterior neighbor gateways?,Comprehension
+What advantage does REX offer other similar utilities?,Knowledge
+Suppose you are given only the IP address of the switch but not the port number. How will you read that switch?,Application
+There are four routers and 4 switches and 40 computers in an office. How will you connect each devices and configure those devices?,Application
+Explain benefits of VPN? Difference between L2TP and PPTP Protocols?,Comprehension
+How to configure two DHCP Servers using 2 swithces with 1 DSL. Keep in mind we cannot use any other additional equipment?,Application
+Windows crashed because NTLDR File is missing. How will you restore this file (Without using Safe Mode Option)?,Application
+difference between TCP/IP host name and netBIOS host name,Comprehension
+"When you move the NIC cards from one PC to another PC, does the MAC address gets transferred as well?",Analysis
+"Dial-up modems, HFC, DSL and FTTH are all used for residential access.comment on whether the transmission rate for each is shared or dedicated.",Evaluation
+Describe the most popular wireless Internet access technologies today. Compare and contrast them.,Comprehension
+Consider sending a packet from a source host to a destination host over afixed route. List the delay components in the end-to-end delay.,Analysis
+"Suppose Host A wants to send a large file to Host B. The path from Host A to
+ Host B has three links, of rates R1 = 500 kbps, R2 = 2 Mbps, and R3 = 1 Mbps. Assuming no other traffic in the network, what is the throughput for the
+ file transfer?",Application
+Design and describe an application-level protocol to be used between an automatic teller machine and a bank?s centralized computer as you wish.,Synthesis
+"Equation 1.1 gives a formula for the end-to-end delay of sending one packet of length L over N links of transmission rate R. Generalize this formula for
+ sending P such packets back-to-back over the N links.",Application
+Review the car-caravan analogy in Section 1.4. Assume a propagation speed of 100 km/hour.,Evaluation
+"Express the propagation delay, dprop, in terms of m and s.",Synthesis
+"Suppose s = 2.5 ˙ 108, L = 120 bits, and R = 56 kbps. Find the distance mso that dprop equals dtrans.",Application
+Find the average and standard deviation of the round-trip delays at each of the three hours.,Application
+Find the number of routers in the path at each of the three hours. Did the paths change during any of the hours?,Application
+"Derive a general expression for throughput in terms of Rs , Rc, R, and M.",Synthesis
+"Suppose two hosts, A and B, are separated by 20,000 kilometers and are connected by a direct link of R = 2 Mbps. Suppose the propagation speed
+ over the link is 2.5*108 meters/sec. Calculate the bandwidth-delay product, R dprop.",Application
+"Derive a general expression for the width of a bit in terms of the propagation speed s, the transmission rate R, and the length of the link m.",Synthesis
+Discuss the drawbacks of message segmentation.,Comprehension
+"For a P2P file-sharing application, do you agree with the statement, ?There is no notion of client and server sides of a communication session?? Why or why not?",Analysis
+"List the four broad classes of services that a transport protocol can provide. For each of the service classes, indicate if either UDP or TCP (or both) provides such a service.",Knowledge
+What is an overlay network? Does it include routers? What are the edges in the overlay network?,Knowledge
+List at least four different applications that are naturally suitable for P2P architectures.,Knowledge
+Now suppose a cache is installed in the institutional LAN. Suppose the miss rate is 0.4. Find the total response time.,Application
+Write a simple TCP program for a server that accepts lines of input from a client and prints the lines onto the server?s standard output.,Synthesis
+Suppose that in the five-minute interval no new messages have been sent to you. Provide a transcript of this second POP session.,Synthesis
+Discuss why whois databases should be publicly available.,Comprehension
+Describe how an attacker can use whois databases and the nslookup tool to perform reconnaissance on an institution before launching an attack.,Comprehension
+"Conclude that the minimum distribution time is in general given by max{NF/us , F/ dmin}.",Evaluation
+Can you configure your browser to open multiple simultaneous connections to a Web site?,Analysis
+What is the Apache Web server? How much does it cost?,Knowledge
+develop a simple Web server in Python that is capable of processing only one request.,Synthesis
+"write a client ping program in Python. Your client will send a simple ping message to a server, receive a corresponding pong message back from the server.",Synthesis
+"create a simple mail client that sends email to any recipient. Your client will need to establish a TCP connection with a mail server dialogue with the mail server using the
+ SMTP protocol, send an email message to a recipient via the mail server, and finally close the TCP connection.",Synthesis
+"develop a Web proxy. When your proxy receives an HTTP request for an object from a browser, it generates a new HTTP request for the same object and sends it to the origin server",Synthesis
+Design the simplest possible transport-layer protocol that will get application data to the desired process at the destination host.,Synthesis
+"Is it possible for an application to enjoy reliable data transfer even when the application runs over UDP? If so, how?",Analysis
+What are the source and destination port values in the segments flowing from the server back to the clients? processes?,Knowledge
+Suppose you have the following 2 bytes: 01011100 and 01100101. What is the 1s complement of the sum of these 2 bytes?,Analysis
+Draw the FSM for the receiver side of protocol rdt3.0.,Knowledge
+"Draw a diagram showing that if the network connection between the sender and receiver can reorder messages , then the alternating-bit protocol will not work correctly",Synthesis
+Design an error-control protocol for the unidirectional reliable transfer of messages. Give an FSM description of the sender and receiver.,Synthesis
+"Design (give an FSM description of) a protocol that incorporates the appropriate mechanisms to compensate for the loss-prone A-to-B channel and
+ implements message passing to the layer above at entity A, as discussed above.",Synthesis
+compute the TCP TimeoutInterval after each of these samples is obtained.,Application
+"Argue that in order for
+ the link to always be busy sending data, we would like to choose a buffer size that is at least the product of the link speed C and the two-way propagation
+ delay between the sender and the receiver.",Evaluation
+Argue that T is a function of TCP?s average throughput.,Evaluation
+"Do the routers in both datagram networks and virtual-circuit networks use forwarding tables? If so, describe the forwarding tables for both classes of networks.",Analysis
+List some applications that would benefit from ATM?s CBR service model.,Knowledge
+What are the three most important network-layer functions in a virtualcircuit network?,Knowledge
+Describe how packet loss can occur at input ports. Describe how packet loss at input ports can be eliminated (without using infinite buffers).,Comprehension
+Describe how packet loss can occur at output ports. Can this loss be prevented by increasing the switch fabric speed?,Comprehension
+Discuss why each input port in a high-speed router stores a shadow copy of the forwarding table.,Analysis
+What is HOL blocking? Does it occur in input ports or output ports?,Knowledge
+Compare and contrast the IPv4 and the IPv6 header fields. Do they have any fields in common?,Comprehension
+Is it necessary that every autonomous system use the same intra-AS routing algorithm? Why or why not?,Analysis
+Compare and contrast the advertisements used by RIP and OSPF.,Comprehension
+"Define and contrast the following terms: subnet, prefix, and BGP route.",Knowledge
+Describe how a network administrator of an upper-tier ISP can implement policy when configuring BGP.,Comprehension
+What are the roles played by the IGMP protocol and a wide-area multicast routing protocol?,Knowledge
+"Provide a forwarding table that has five entries, uses longest prefix matching, and forwards packets to the correct link interfaces.",Synthesis
+Compute the distance tables after the initialization step and after each iteration of a synchronous version of the distance-vector algorithm,Application
+"Argue that for the distance-vector algorithm in Figure 4.30, each value in the distance vector D(x) is non-increasing and will eventually stabilize in a finite number of steps",Evaluation
+Will a BGP router always choose the loop-free route with the shortest ASpath length? Justify your answer.,Analysis
+Design (give a pseudocode description of) an application-level protocol that maintains the host addresses of all hosts participating in a multicast group.,Synthesis
+Write your own Ping application in Python. Your application will use ICMP. But in order to keep your program simple.,Synthesis
+What is the maximum number of VLANs that can be configured on a switch supporting the 802.1Q protocol? Why?,Knowledge
+"Assuming email usage and video usage are independent, for what fraction of time do (equivalently, what is the probability that) both applications need their fourth rack?",Application
+"If a node has a wireless connection to the Internet, does that node have to be mobile? Explain.",Comprehension
+What is an operating system?,Knowledge
+Recite the main purpose of an operating system.,Knowledge
+Name different types of operating systems.,Knowledge
+Define socket,Knowledge
+Draw and label the conceptual view of computer systems.,Knowledge
+What is kernel?,Knowledge
+What do you mean by monolithic kernel?,Knowledge
+Recall a Process's definition,Knowledge
+Make a list of different operating systems and it's examples.,Knowledge
+List the different states of a process.,Knowledge
+Describe micro kernel and macro kernel.,Comprehension
+Explain the concept of reentrancy.,Comprehension
+Briefly describe process and program.,Comprehension
+Tell in your words the use of paging in operating system.,Comprehension
+State in your own words the concept of demand paging?,Comprehension
+Discuss the advantages of a multiprocessor system,Comprehension
+Restate virtual memory.,Comprehension
+Rewrite thrashing.,Comprehension
+In one sentence explain deadlock.,Comprehension
+Paraphrase thread.,Comprehension
+Apply your understanding to scheduling Algorithms.,Application
+Can you group the given processes into different kinds of scheduling algorithms they follow.?,Application
+Show the output of given code snippet.,Application
+Categorise operating sytems with demonstrations.,Application
+choose any one of the scheduling algorithms and apply understanding to it or demonstrate it.,Application
+Compute page fault if page reference are given,Application
+Construct a page table entry and demonstrate its contents.,Application
+How would you show Inter Process Communication(IPC).,Application
+Draw file system organized in many layers.,Application
+what would result when a program attempts to access a block of memory that is not stored in the physical memory?,Application
+Analyze the conditions and characteristics for deadlocks.,Analysis
+Can you distinguish between mutex and semaphore?,Analysis
+Can you explain what must have happened during communication between processes using shared memory method.?,Analysis
+Differentiate between shared memory and message passing.,Analysis
+Distinguish between independent and co-operating processes.,Analysis
+Examine what helps to make a better solution for dining philosophers problem.,Analysis
+How does Process Image differ from Multi Thread Process image.,Analysis
+How would you distinguish between spooling and buffering?,Analysis
+Explain the term Process image By making reference to its contents.,Analysis
+In what ways do buffering differ from caching in os?,Analysis
+Justify your thought of synchronization in distributed systems.,Evaluation
+Identify one problem in detecting deadlocks and give an alternate solution to this which is not given by the author.,Synthesis
+Plan a research paper on an new algorithm that could detect deadlocks .,Synthesis
+Invent different conditions to detect deadlocks.,Synthesis
+How could you re-write caching with all the necessary conditions and points.,Synthesis
+Design a code snippet to implement LRU cache.,Synthesis
+What new ideas can you add to the LRU cache implementation.,Synthesis
+What solutions would you suggest to differentiate preemptive from Non-preemptive scheduling.,Synthesis
+Write a Java program to find the number of page faults using least recently used (LRU) page replacement algorithm with 3 page frames.,Synthesis
+"Predict which algorithm among FCFS, SJF And Round Robin with quantum 10,would give the minimum average time for a given workload.",Application
+After solving Scheduling problem with an example determine the degree to which the problem was solved as efficiently as possible,Evaluation
+Assess the strength and weaknesses of Banker's algorithm.,Evaluation
+conclude and support which one of the disk scheduling algorithms gives better solution.,Evaluation
+Evaluate the prerequisite for understanding convoy effect.,Evaluation
+choose and illustrate two better process schedulers .,Evaluation
+Decide which one method of preventing zombie process methods is better.?,Evaluation
+Decide if all the algorithms that you have learnt in operating systems were helpful while applying to few of your daily problems.,Evaluation
+Do you agree if we say SSTF is one of the better and widely known disk scheduling algorithm,Evaluation
+What do you think about fork() system call OS.,Evaluation
+"Given a snippet of code ,decide which one of the processes gets executed first.",Evaluation
+consider whether the operating system should include applications such as web browsers and mail programs. Conclude with your suggestion.,Evaluation
+Timers could be used to compute the current time. Provide a short description of how this could be accomplished.,Synthesis
+Distinguish between the client?server and peer-to-peer models of distributed systems.,Comprehension
+Under what circumstances would a user be better off using a timesharing system than a PC or a single-user workstation?,Analysis
+Describe the differences between symmetric and asymmetric multiprocessing. What are three advantages and one disadvantage of multiprocessor systems?,Comprehension
+What are some advantages of peer-to-peer systems over client-server systems?,Knowledge
+Identify several advantages and several disadvantages of open-source operating systems.,Knowledge
+What are the three major activities of an operating system with regard to secondary-storage management?,Knowledge
+List five services provided by an operating system. In which cases would it be impossible for user-level programs to provide these services?,Knowledge
+Would it be possible for the user to develop a new command interpreter using the system-call interface provided by the operating system?,Analysis
+Write a program that copies the contents of one file to a destination file. This program works by first prompting the user for the name of the source and destination files.,Synthesis
+"Construct a process tree similar to Figure 3.8. To obtain process information for the UNIX or Linux system, use the command ps -ael.",Synthesis
+implement a mutex lock using an atomic hardware instruction. Assume that the following structure defining the mutex lock is available,Application
+implement the wait() and signal() semaphore operations in multiprocessor environments using the test and set() instruction. The solution should exhibit minimal busy waiting.,Application
+Demonstrate that monitors and semaphores are equivalent insofar as they can be used to implement solutions to the same types of synchronization problems.,Application
+Design an algorithm for a bounded-buffer monitor in which the buffers (portions) are embedded within the monitor itself.,Synthesis
+Classify Linux threads as user-level threads or as kernel-level threads? Support your answer with the appropriate arguments.,Comprehension
+Discuss how the clone() operation supported by Linux is used to support both processes and threads.,Comprehension
+"Apply the random page-reference string to each algorithm, and record the number of page faults incurred by each algorithm.",Application
+Examine a set of processes that cannot be scheduled using the rate-monotonic algorithm.,Analysis
+Examine two strategies for managing free memory that is assigned to kernel processes: the ?buddy system? and slab allocation,Analysis
+Evaluate an algorithm by running it on a particular string of memory references and computing the number of page faults,Evaluation
+Decide whether to grant a request when it cannot trust the named source of the request?,Evaluation
+"Argue for or against the judicial sentence handed down against Robert Morris, Jr., for his creation and execution of the Internet worm",Evaluation
+What can you conclude about the number of years for which one of these drives is under warranty?,Evaluation
+"Pick some learning task not mentioned in this chapter. Describe it by stating as precisely as possible the task, performance measure, and training experience.",Comprehension
+Give three computer applications for which machine learning approaches seem appropriate and three for which they seem inappropriate.,Knowledge
+"Implement an algorithm similar to that discussed for the checkers problem, but use the simpler game of tic-tac-toe.",Application
+Prove that the LMS weight update rule described in this chapter performs a gradient descent to minimize the squared error,Evaluation
+Let us say you are given the task of building an automated taxi. Define the constraints. What are the inputs? What is the output?,Analysis
+How can you predict the next command to be typed by the user? Or the next page to be downloaded over the Web?,Analysis
+"In estimating the price of a used car, rather than estimating the absolute price it makes more sense to estimate the percent depreciation over the original price. Why?",Analysis
+The complexity of most learning algorithms is a function of the training set. Can you propose a filtering algorithm that finds redundant instances?,Evaluation
+One source of noise is error in the labels. Can you propose a method to find data points that are highly likely to be mislabeled?,Synthesis
+"Generate normal samples for two classes with different variances, then use parametric classification to estimate the discriminant points. Compare these with the theoretical values.",Synthesis
+"Generate a sample from a multivariate normal density N (?, ‰),calculate m and S, and compare them with ? and ‰ Check how your estimates change as the sample size changes.",Synthesis
+"Generate samples from two multivariate normal densities N (?i, ‰i), i = 1, 2, and calculate the Bayes? optimal discriminant for the four cases",Synthesis
+"In mixture of experts, we can have different experts use different input representations. How can we design the gating network in such a case?",Synthesis
+Write down the graphical model for linear logistic regression for two classes,Knowledge
+Propose a suitable goodness measure that can be used in learning graph structure as a state-space search. What are suitable operators?,Synthesis
+Draw the Necker cube as a graphical model defining links to indicate mutually reinforcing or inhibiting relations between different corner interpretations.,Knowledge
+"Show that in a directed graph where the joint distribution is written as equation 16.12,  x p(x) = 1.",Evaluation
+"Propose an incremental version of the running mean estimator, which, like the condensed nearest neighbor, stores instances only when necessary.",Synthesis
+"In the running smoother, we can fit a constant, a line, or a higher-degree polynomial at a test point. How can we choose between them?",Analysis
+Generalize kernel smoother to multivariate data,Evaluation
+Propose a tree induction algorithm with backtracking,Synthesis
+Derive a learning algorithm for sphere trees (equation 9.21). Generalize to ellipsoid trees.,Synthesis
+How can you predict the next command to be typed by the user? Or the next page to be downloaded over the Web? When would such a prediction be useful?,Evaluation
+"In cascade correlation, what are the advantages of freezing the previously existing weights?",Knowledge
+"Parity is cyclic shift invariant; for example, ?0101? and ?1010? have the same parity. Propose a multilayer perceptron to learn the parity function using this hint.",Synthesis
+Write down the RBF network that uses elliptic units instead of radial units as in equation 12.13.,Knowledge
+Formalize a mixture of experts architecture where the experts and the gating network are multilayer perceptrons.,Evaluation
+Formalize the hierarchical mixture of experts architecture with two levels.,Evaluation
+compare cooperative and competitive models for classification tasks,Comprehension
+Compare the number of parameters of a mixture of experts architecture with an RBF network.,Comprehension
+"You can fax a document,or you can use an optical character reader (OCR) and send the text file. Discuss the advantage and disadvantages of the two approaches.",Comprehension
+Discuss bias and variance decomposition for several learning models,Comprehension
+Discuss an application where there are hidden factors (not necessarily linear) and where factor analysis would be expected to work well.,Comprehension
+Find the dependence between two items X and Y. Given a database of customer transactions.,Application
+"In a scale of 0 to 10, how can you use this extra information to calculate which item to propose to a customer?",Application
+"Given two normal distributions p(x|C1) ? N(?1, Â2 1 ) and p(x|C2) ? N(?2, Â2 2 ) and P(C1) and P(C2), calculate the Bayes? discriminant points analytically.",Application
+calculate the probability of a given state sequence. How can the parameters be learned for the case of a observable model?,Application
+How can we have an incremental HMM where we add new hidden states when necessary?,Application
+Define a multivariate Bernoulli mixture where inputs are binary and derive the EM equations.,Knowledge
+Write the error function for loess.,Knowledge
+Write down the definition of data structures?,Knowledge
+Define storage structure?,Knowledge
+What is Linear search?,Knowledge
+Define Space Complexity,Knowledge
+List the types of Binary Search Tree.,Knowledge
+What is a Priority Queue?,Knowledge
+Name the two fields of Linked list?,Knowledge
+List three examples that uses linked list?,Knowledge
+Define pre-order traversal?,Knowledge
+Name the different ways of representing a graph?,Knowledge
+List the limitations of arrays,Knowledge
+List the three fields of Doubly Linked list,Knowledge
+Define in -order traversal?,Knowledge
+Define complete binary tree?,Knowledge
+List the phases of garbage collection,Knowledge
+List the types of automatic list management,Knowledge
+List out the steps involved in deleting a node from a binary search tree.,Knowledge
+Explain the linked list representation of a list with an example.,Comprehension
+Explain the dynamic memory management with necessary methods.,Comprehension
+Discuss in detail about the implementation of sum of n terms S=1+ (1/2) + (1/3) +?. algorithm,Comprehension
+Convert the infix expression (A-B/C)*(D/E-F) into a postfix.,Comprehension
+Explain the representations of priority queue.,Comprehension
+Explain threaded binary tree ADT in detail.,Comprehension
+Explain Dijkstra's algorithm with an example?,Comprehension
+Explain Krushal's algorithm with an example,Comprehension
+Explain the procedure of merge sort,Comprehension
+Translate infix expression into its equivalent post fix expression:A*(B+D)/E-F*(G+H/K),Comprehension
+"Convert following Infix expression into Postfix expression using Tabular
+ method.a ? b / c * d + e * f / g",Comprehension
+"Explain various multiple key access file organization in brief with
+ advantages and disadvantages of each method",Comprehension
+"Discuss following with reference to trees.(i) Height of the tree (ii) Complete Binary Tree (iii) Expression tree
+ (iv) Sibling (v) Full Binary Tree",Comprehension
+"Explain Inorder, Preorder and Postorder Traversal operation on Binary tree with example.",Comprehension
+Describe in detail about separate chaining.,Comprehension
+Differentiate between data type and data structures.,Comprehension
+Explain AVL rotation.,Comprehension
+Discuss the concept of AVL Tree in Detail with example.,Comprehension
+Calculate sum of all elements in a sub-matrix in constant time,Application
+Calculate number of paths in a matrix with given cost to reach destination cell,Application
+"Show the result of accessing the keys 3,9,1,5 in order in the splay tree in the following figure",Application
+"Show the result of inserting 2,4,1,5,9,3,6,7 in to an initially empty AVL Tree.",Application
+"Draw a Binary search tree for the following input list 60,25,75,15,50,66,33,44.Trace the algorithm to delete the nodes 25,75,44 from the tree.",Application
+Show that for the perfect binary tree of height h containing 2h+1-1nodes.,Application
+Calculate height of a binary tree | Iterative & Recursive,Application
+Calculate frequency of all elements present in an array of specified range,Application
+"Write an algorithm for finding minimum spanning tree and explain application,illustrate the algorithm with typical data of yours own example.",Application
+"Solve the postfix expression (step by step): 10, 5, 3, *, +, 25, 5, /, -",Application
+Write a C program to solve the problem of Tower of Hanoi using recursion,Application
+"Demonstrate Insertion sort to sort numbers 23,12,6,17,54,18,19,27,38,29",Application
+Demonstrate ?Incidence Matrix? of a directed graph by diagram and matrix.,Application
+Formulate space utilization in Extended/Dynamic hashing,Application
+Implement DFS traversal of a graph by a recursive function in C.,Application
+Can you differentiate between merge sort and quick sort?,Analysis
+Compare advantages and disadvantages of using recursion compared to iteration,Analysis
+Analyse if the heap sort always better than the quick sort,Analysis
+Classify the Hashing Functions based on the various methods by which the keyvalue is found.,Analysis
+What is the difference between storing data on the heap vs. on the stack?,Comprehension
+Compare linked list and linear array representations of a data structure.,Analysis
+Compare insertion and deletion in Btree and b+tree,Analysis
+Compare and contrast?dense index? and ?sparse index? in file organization,Analysis
+Illustrate the traversal algorithms and node representation of binary trees with examples.,Analysis
+Comapre and contrast between linear linked list and circular linked list,Analysis
+Give the analysis of insertion and deletion in binary search tree.,Analysis
+"State different File Organizations .Comapre and contrast them.
+ disadvantages of each of them.",Analysis
+"Assume the recurrance relation T(N) = 2T(N/2)+N,N>=2 with boundary condition T(1) =0 . Analyse the time complexity",Analysis
+"In RDBMS, analyse which efficient data structure can be used in the internal storage representation?",Analysis
+Assume that the base address of the array is 2000. give an expression that computes the address of the element a[i][j][k] of the array.,Analysis
+Write a C program of sorting a set of numbers in decending order using selection sort and analyse the complexity ogf the algorithm,Analysis
+Prove that the maximum number of edges that a graph with n Vertices is n*(n-1)/2.,Evaluation
+".If you are using C language to implement the heterogeneous linked list, choose what pointer type you will use?",Evaluation
+Does the minimum spanning tree of a graph give the shortest distance between any 2 specified nodes?,Evaluation
+"Evaluate P: 12 , 7 , 3 , - , / , 2 , 1 , 5 , + , * , + , )",Evaluation
+Can a binary tree be uniquly re-constructed given its preorder and post order traversals ? Justify your answer,Evaluation
+To find maximum elements of a square matrix nxn takes quadratic time. Justify.,Evaluation
+"Suppose P(n) = a0+a1n+a2n2+?.+amnm,that is suppose degree of P(n) =m .Prove that P(n) =O(nm).",Evaluation
+Recursion is better than insertion' . Critically comment this statement.,Evaluation
+"Usually a queue is implemented using two pointers ie front and rear . Is it possible to implement a linked queue that requires only one pointer? If yes ,how to implement.",Evaluation
+It's recommended that the precondition be checked at the start of a method.Justify.,Evaluation
+Justify why it is a bad idea to implement a linked list version a queue which uses the head of the list as the rear of the queue.,Evaluation
+How may Djikstra's algorithm be modified to determine if it is possible to get from a given vertex to all other vertices in the graph?,Evaluation
+"For the given binary search tree, if we remove the root and replace it with
+ something from the left sub-tree. What will be the value of the new root?
+ Justify your answer.",Evaluation
+"Identify the suitable tree data structure for representing data {50, 30, 60, 40,
+ 35, 80,-90) so that the tipe complexity involved in searching the key should be
+ *i""i*;. r""y tt r""u different rroolirrurt d,ata structures and give diagammatic
+ representation of data. The data size may grow in future and may take any value. Justify your answer with valid reason",Evaluation
+Prove that NP-completeness and 3d coloring is NP-complete,Evaluation
+Design the function in c for shellsort,Synthesis
+Design a program that creates random numbers in a given file.,Synthesis
+design a program that implements depth first search algorithm.,Synthesis
+Design an unbounded lock based stack which is implemented based on linked list,Synthesis
+"Create a Binary Search Tree for the following data and do in-order, Preorder
+ and Post-order traversal of the tree.50, 60, 25, 40, 30, 70, 35, 10, 55, 65, 5",Synthesis
+"Design an O(n) - time algorithmthat, is given a real number x and a sorted array S of n numbers,determine wheater or not there exist two element in S whose sum is exactly x.",Synthesis
+"Suppose we have an array of numbers a[1],?,a[n] in which the first I numbers a[1],?,a[i] have been sorted in acsending order and the remaining nos in descending order. The aim is to sort the entire array in ascending order .Design an algorithm which merges the two sorted arrays into the second array b[1],...,b[n] and copies the result back into a , show that the algorithm takes time O(n).",Synthesis
+Design a method to stimulate the stack using queues assuming many queues are required.,Synthesis
+Create an algorithm that adds an edgeinto the directed graph .,Synthesis
+"Compose a program that implements the stacks by using linked list , specify the push and pop condition and include condition to check full and empty.",Synthesis
+Differentiate ?Strongly connected? and ?Weakly connected? digraph with example.,Comprehension
+Demonstrate ?Incidence Matrix? of a directed graph by diagram and matrix.,Comprehension
+Formulate space utilization in Extended/Dynamic hashing,Synthesis
+What is the type of the algorithm used in solving the 8 Queens problem?,Knowledge
+"Describe the types of Collision Resolution Techniques and the methods used in
+ each of the type.",Comprehension
+Define ADT (Abstract Data Type),Knowledge
+"Suppose f(n) belongs to O(f(n)) and f2(n) belongs to O(f(n)) , which is true , Support giving suitable reasons",Evaluation
+Can you analyse hoe binary tree is different from other trees.,Analysis
+"A programmer wants to write a rudimentory scanner that would check unbalanced braces , brakets and sqare brackets in C source file .He maintains a storage list , which could get all open braces brakets . When a closing bracket or braces is seen it is compared with the contents of the this list structure to issue a suitable dignostic . Analyse which storage structure would be the best for this to accomplish",Analysis
+List extended Features of ERD,Knowledge
+Define lock.,Knowledge
+Define the phases of two phase locking protocol.,Knowledge
+List out various user authorization to modify the database schema.,Knowledge
+Recall the forms of triggers.,Knowledge
+Define Normalization,Knowledge
+Define keys,Knowledge
+Name some security violations (or) name any forms of malicious access.,Knowledge
+What is authorization graph?,Knowledge
+List the types of authorization.,Knowledge
+What is transaction?,Knowledge
+What are the states of transaction?,Knowledge
+Recall the statements associated with a database transaction,Knowledge
+What are the different modes of lock?,Knowledge
+Define upgrade and downgrade.,Knowledge
+What are the two methods for dealing deadlock problem?,Knowledge
+Explain Security and its Violations with examples.,Comprehension
+Explain current page table and shadow page table.,Comprehension
+What is aggregation? Explain with example?,Comprehension
+Explain Project and Union operation of Relational Algebra with example.,Comprehension
+Explain when not to use Triggers ?,Comprehension
+Explain the two conditions needed for set difference operation to bee valid,Comprehension
+Describe the components of an enterprise-class database system and explain the functions they perform,Comprehension
+Explain the nature and characteristics of databases.,Comprehension
+Explain different states of a transaction.,Comprehension
+Discuss the history and development of database processing,Comprehension
+Discuss the basic SQL SELECT/FROM/WHERE framework as the basis for database queries.,Comprehension
+Discuss the history and significance of Structured Query Language,Comprehension
+Explain the ACID properties associated with database transactions.,Comprehension
+Describe denormalization.,Comprehension
+Describe the two-phase data modeling/database design process,Comprehension
+Discuss iterative nature of the data modeling process.,Comprehension
+") Consider the following Relational Database.
+ Student (roll_no, name,city,marks,c_no)
+ Course (c_no,cname,fees)
+ Construct Queries into Relational algebra.
+ a) List Student Details enrolled for ?BBA (C.A)? Course.
+ b) List the Course having fees < 20000
+ c) Display all students living in either ?Nasik? or ?Pune? city.
+ d) Display Course detail for student ?Gaurav Sharma?.",Application
+"Compute canonical cover Fc for the R={A,B,C,D} and FD?s= { A?BC, B?C, A?B ,
+  AB?C, AC?D}.",Application
+"Consider relational database:
+ Supplier (Supno, sname, supaddress)
+ Item (Itemno, Iname, stock)
+ Supp-Item (Supno, Itemno, rate)
+ Write relational algebraic expression for the following
+ i. List all suppliers from ?Varanasi? city who supplies PISTON.
+ ii. Display all suppliers supply PISTON RINGS
+ iii. Change supplier names to upper case
+ iv. List all suppliers supplying DOOR Lock from ?Jaipur? city",Application
+"Draw the ER diagram for the following relations.Courses (Number, Room). Is it a weak entity set.Depts (Name, BOD),Lab-courses(computer alocation),Theory-courses (name, faculty_ name)",Application
+"solve the query givenbelow:Find the names of employees work on project name ?NASA? and born after 1956.Project (project name, Project number, Dept)",Application
+"Let us consider a relation with attributes A, B, C, D, E and F. Suppose that this relation has the FD
+ AB->, BC->AD, D->E and CF->B . Identufy the closure of {A,B} that is {AB}+",Application
+"Construct sql syntax for creating table EMP(EMPNO,ENAME,SALARY,JDATE,DIS).Construct sql syntax for insert two rows in table, delete one row from table, update salary and view whole table.",Application
+"For a relation R(A,B,C,D) with the dependency among numeric field values: 6= 2A + B and 9 = 2E.Model the E-R diagram.",Application
+"Consider a multilevel index with fan-out=4 used to index 25 records, draw the structure. (1) A->C,
+ (2) AB->D. Identify the closure of {A, B}?",Application
+"Construct an ER diagram for a car insurance company that has a set of customers, each ofwhom owns one/more cars. Each car has associated with it zero to any number of recorded accidents.",Application
+"Consider the universal relation R={ A,B,C,D,E,F,G,H,I} and the set of functional dependencies F={(A,B)->{C],{A}>{D,E},{B}->{F},{F}->{G,H},{D}->[I,J}.Solve the key for Decompose R
+ into 2NF,the 3NF relations",Application
+"Model an ER diagram for the following entity sets.Movies (Title, year, length, film type)And Stars(name, address)",Application
+"Recognize and correct common design problems in multivalue, multicolumn problem.",Analysis
+"Analyse the difference between 1st Normal Form, 2nd normal form and 3rd normal form.",Analysis
+Which is more important-the product or process? Justify your answer.,Analysis
+Can you analyse how database architecture satisfies abstraction at various levels .,Comprehension
+Compare File systems with database systems.,Comprehension
+Compare network and hierarchical model,Comprehension
+What are the difference b/w procedural and non procedural query languages,Evaluation
+Evaluate Dynamic hashing with of Pseudo-key generation with Binary Digits,Evaluation
+Prove that any relation schema with two attributes is BCNF.,Evaluation
+Prove that a relation which is in 4NF must be in BCNF,Analysis
+Compareand contrast all the SDLC models with one another .,Synthesis
+Write A Case Study Project for Software Engineering Education,Evaluation
+Software Maintainability Metrics Help Identify Problem Areas. Justify,Evaluation
+Justify ?Design is not coding and coding is not design?,Evaluation
+Justify the statement ?Software maintenance is costlier?.,Evaluation
+How the Process Model differ from one another?,Analysis
+An SRS is traceable ?comment,Evaluation
+"Consider the process of ordering a pizza over the phone. Build use case diagram and also sketch the activity diagram representing each step of the process,from the moment you pick up the phone to the point where you start eating the pizza. Include activities that others need to perform. Add exception handling to the activity diagram you developed.
+ Consider at least two exceptions.(Ex : Delivery person wrote
+ down wrong address, deliver person brings wrong pizza).",Synthesis
+How do you apply modularization criteria for a monolithic software,Application
+"If a module has logical cohesion, what kind of coupling is this module likely to have?",Analysis
+Will exhaustive testing guarantee that the program is 100% correct?,Analysis
+An organic software occupies 15000 LOC.Identify how many programmers are needed to complete?,Application
+"Suppose you have a budgeted cost of a project as Rs.9,00,000. The project is to be completed in 9 months. After a month you have completed 10 percent of project at a total expense of Rs. 1,00,000. The planned completion should have been 15 percent.If the total degree of influence is 52, find the estimated function points.",Application
+"Suppose you have a budgeted cost of a project as Rs.9,00,000. The project is to be completed in 9 months. After a month you have completed 10 percent of project at a total expense of Rs. 1,00,000. The planned completion should have been 15 percent. You need to determine whether the project is on-time and on budget? Use Earned value analysis approach and interpret",Analysis
+"For the scenario described below, analyze which life cycle model would you choose? Give thereason why you would choose this model. NOV/DEC-11 ,You are interacting with the MIS department of a very large oil company with multiple departments. They have a complex regency system. Migrating the data from this legacy system is not an easy task and would take a considerable time. The oil company is very particular about processes, acceptance criteria and legal contracts.",Analysis
+Analyse which process model is best suited for risk management?,Analysis
+"Consider 7 functions with their estimated lines of code. Average productivity based on historical
+ data is 620 LOC/pm and labour rate is Rs. 8000 per mnth. Find the total estimates
+ project cost and effort? F1 ? 2340 , F2 ? 5380, F3 ? 6800 , F4 ?3350 , F5 -4950 , F6 -2140 , F7 ? 8400",Application
+"An application has the following:10 low external inputs, 12 high external outputs, 20 low internal logical files, 15 high external interface files, 12 average external inquiries and a value adjustment factor of 1.10 . Calculate the unadjusted and adjusted function point count.",Application
+"If you have to develop a word processing software product, what process model will you choose? Justify your answer and examine.",Analysis
+Create six new practices that are designed to help ensure that an XP project works successfully for significant projects within a large organization.,Synthesis
+"Consider an online railway system which allows the user to select route , book/cancel tickets using net banking /credit/debit cards . The site also maintains the history of the passengers . For the above system , model a use case scenario using data flow diagram",Synthesis
+Assume that you are a technical manager of as software development organization.A client approched you for a software solution .The problems stated by the client have uncertainities which lead to the loss if it is not planned and solved . Which software development model you will suggest for this project .,Analysis
+"Mr koushan is the project manager on a project to build a new cricket stadium in mumbai India . A fter six months of work , the project is 27% complete . At the start of the project , koushan estimated it would cost $50,000,000. Find the earned value",Application
+"Depict the relationship between work product,task , activity and system",Analysis
+Formulate an algorithm to find the shortest path using Dijkstra?s algorithm and explain with example.,Synthesis
+"Construct an expression tree for the expression (a + b * c)+((d * e + 1) * g). Give the outputs when you apply preorder, inorder and postorder traversals.",Synthesis
+"Create a Binary Search Tree for the following data and do in-order, Preorder and Post-order traversal of the tree. 50, 60, 25, 40, 30, 70, 35, 10, 55, 65, 5.",Synthesis
+Create a structure pointed by a pointer variable and allocate memory using malloc() and calloc() separately.Execute the code and note your observations.,Synthesis
+"Create a file for storing employee database. To this file include operations to add new employees, delete.
+ Employees and search for a particular employee.",Synthesis
+"Arbitrarily large integer cannot be stored in a computer because of its limitation. Size of an integer grows exponentially while computing factorial of an integer,therefore,simple multiplication does not help us in computing factorial of a large positive integer. Design an algorithm using linked list to compute factorial of any arbitrarily large positive integer.",Synthesis
+Can a Queue be represented by circular linked list with only one pointer pointing to the tail of the queue? Substantiate your answer using an example.,Analysis
+"A simple digital watch has a display and two buttons, A and B to set it. The watch has two modes of operation, display time and set time. In the display time mode, the watch display hours and minutes, separated by a flashing colon. The set time mode has two sub modes, set hours and set minutes. The A button selects modes. Each time it is pressed, the mode advances in the sequence : display, set hours, set minutes, display etc. Within the submode, the B button advances the hours or minutes once each time it is pressed. Buttons must be released before they can generate another event. Create a state diagram of the watch.",Synthesis
+Explain Object Oriented Development,Comprehension
+Explain concept of Generalization and inheritance with suitable example.,Comprehension
+Describe Links and Associations with appropriate example.,Comprehension
+Analyse why we call a domain model a?VisualDictionary?.,Analysis
+Define Class Diagram?,Knowledge
+List out the Components of Domain model?,Knowledge
+Generalize the use of Sequence Diagram.,Comprehension
+Analyze the concepts of Noun Phrase Identification from use cases.,Analysis
+Summarize the strategies to find Conceptual classes.,Comprehension
+"A Library lends books and magazines to member, who is registered in the system. It also maintains the purchase of new books and magazines for the Library. A member can reserve a book or magazine that is not currently available in the library, so that when it is returned or purchased by the library, that person is notified. The library can easily create, replace and delete information about the books, members, and reservation in the system. CS8592 Question Bank Object Oriented Analysis and Design The books transactions are stored in the database. The fine list while the member returns the book after the due date must be generated. Design the use case diagram and discover the users and actors of this system, and the interactions between them must be depicted.",Synthesis
+Design and illustrate the use case model for activities involved in ordering food in a restaurant from the point when the customer enters a restaurant to the point when he leaves the restaurant,Synthesis
+Explain the benefits and concepts of use case and use case model and analyze the relating use cases have in ATM system.,Analysis
+Compare Aggregation and Composition.,Comprehension
+Define attribute? List out the types of attributes.,Knowledge
+Describe deployment diagram and also state its common uses.,Comprehension
+Distinguish static model with dynamic model with examples.,Comprehension
+Describe the basic activities in object oriented analysis.,Comprehension
+"Prepare object diagram showing at least 10 relationships among the
+ following object classes. Include associations and qualified associations,
+ aggregations, generalizations, and multiplicity. You may add additional
+ objects. Also show attributes and operations.
+ ? School, playground, principal, school board, classroom, book,
+ student, teacher, canteen, restroom, computer, desk, chair.",Synthesis
+Prove that a linked binary tree with n ? 0 nodes has exactly n+1 NULL links.,Evaluation
+Explain qualified association in class diagram with example.,Comprehension
+"?Many different abstractions of the same thing are possible? State whether the
+ above statement is TRUE or FALSE. Justify your answer.",Evaluation
+"Draw a sequence diagram for issuing a book and renewing
+ a book in online library management system.",Application
+"Prepare scenario for the following exception in
+ ATM example.
+ a. The amount is invalid.
+ b. The communication lines are down.",Application
+"Draw the state of a Car as an aggregation of part states
+ (ignition, transmission, accelerator, brake). Draw the state
+ diagrams of all the part states.",Application
+"The relationship between document and
+ paragraph should be modeled as
+ association, aggregation or composition?
+ Justify answer.",Evaluation
+Explain the steps to be performed to design algorithm.,Comprehension
+Describe the questions for elaborating a system concept.,Comprehension
+Discuss the steps for application interaction model.,Comprehension
+"A Library lends books and magazines to member, who is registered in the system. It also maintains the purchase of new books and magazines for the Library. A member can reserve a book or magazine that is not currently available in the library, so that when it is returned or purchased by the library, that person is notified.The library can easily create, replace and delete information about the books, members, and reservation in the system. The books transactions are stored in the database. The fine list while the member returns the book after the due date must be generated. Analyze the users and actors of this system, and the interactions between them must be depicted.",Analysis
+A University conducts examinations and the results are announced.Prepare a report for the following: Print the marks in the register number order semester wise for each department Print the Arrear list semester wise.Prepare a Rank list for each department.Prepare the final aggregate mark list for final year students.Identify the problem statement and design the classes for each sequence.Draw a detailed flow chart using state chart diagrams. Draw all the UML diagrams for designing this system.,Synthesis
+Explain the activities involved in the macro and micro level processes while designing the view layer classes.,Comprehension
+Summarize the benefits of using layers.,Comprehension
+Classify the three kinds of actors in Usecase.,Comprehension
+A table consists of a tabletop and 4 legs. Pictorially represent the cabinetmaker?s view of the table and the owner?s view of the table.Are they one and the same? Justify with reason.,Evaluation
+"""Multiple inheritance is a boon"".Comment and justify.",Evaluation
+Compare and contrast distributed and cooperative processing.,Analysis
+When to use Use cases? Evaluate it?,Evaluation
+"Analyze and design for Library Information System which comprises
+ the following notations and explain them.(i)Aggregation (ii) Composition (iii) Association",Analysis
+"nterpret the meaning of event, state and Transition.",Knowledge
+Create SSD for Library Management System,Synthesis
+"For an ATM system, every user has to be validated with a PIN number to make a transaction. A customer is allowed 3times to validate card giving the correct PIN number. Show the Use Case representation for the same and summarize the ""Validate User"" Use Case using sequence diagram. Assess and represent the activity diagram for the same.",Application
+Analyze the guidelines to define a conceptual subclass with suitable example.,Analysis
+Design and illustrate the use case model for activities involved in ordering food in a restaurant from the point when the customer enters a restaurant to the point when he leaves the restaurant.,Synthesis
+What are the best practices in UP?,Knowledge
+"An Ackerman function is defined as follows:A(m,n) = n + 1 if m=0 = A(m-1,1) if m ? 0 and n =0 = A(m-1, A(m,n-1)) if m ? 0 and n ? 0 Write the recursive function for A(m,n). Can we find manually that how many times this function is called for A(3,5)?",Application
+Prove that a linked binary tree with n ? 0 nodes has exactly n+1 NULL links.,Evaluation
+Design a colloboration diagram to model details of a seminar.The display is to obtain the details of the seminar and the courses enrolled .Then it obtains the details of the students enrolled.It finds the number of seats left to enroll for the seminar.,Synthesis
+Interpret the need of information expert.,Comprehension
+Develop variours testing stratergies for software quality assurance.,Synthesis
+Develop various test cases for net banking system.,Synthesis
+"Analyse unit,intergration and system testing for currency converter application.",Analysis
+Analyse and highligth the features of jacob son technologies,Analysis
+"Compare and contrast the object oriented methodlogies of Booch,ruben and jacobson",Analysis
+Define test plan.,Knowledge
+List out the steps involved in developing a test plan.,Knowledge
+Summarize basic activities done during the use of debugging tools.,Comprehension
+About what proportion of the population of the US is living on farms?,Knowledge
+Correctly label the brain lobes indicated on the diagram below,Knowledge
+Define compound interest.Define four types of traceability.,Knowledge
+Define mercantilism.,Knowledge
+"Define stream bank, floodplain and substrate.",Knowledge
+Define the meaning of the Olympic Motto.,Knowledge
+Draw and label a diagram of a typical stream.,Knowledge
+Draw the basic outline of a page of notes using the Cornell Method?,Knowledge
+Draw the block diagram of the central processing unit,Knowledge
+Draw the flow chart of the PNK system,Knowledge
+How many instructions in the instruction set of RISC computer?,Knowledge
+How many kilometers from your home to the university,Knowledge
+How many loop statement available in c++?,Knowledge
+How many states are there in USA,Knowledge
+How many years does this animal live?,Knowledge
+How much data can be stored in the cach memory,Knowledge
+How much did he pay for his car,Knowledge
+How much is your weight,Knowledge
+How much time did he took to build a house,Knowledge
+How much water does an elephant drink,Knowledge
+Identify a phrase as a simile,Knowledge
+"Identify a property (commutative, additive, etc(",Knowledge
+Identify fractions from a pictorial representation,Knowledge
+Identify ordinal positions,Knowledge
+Identify the correct definition of osmosis.,Knowledge
+Identify the five major prophets of the Old Testament.,Knowledge
+Identify the part of a eukaryotic cell.,Knowledge
+Identify the standard peripheral components of a computer.,Knowledge
+Identify which word begins with the same sound as the s in sun (Knowledge of letter s),Knowledge
+in which continent does the state of suriname fall,Knowledge
+in which countries is arabic language spoken,Knowledge
+In Which part of the world does he live,Knowledge
+Label any Olympic sporting apparatus with design features.,Knowledge
+Label the parts of the following insects: Grasshopper,Knowledge
+Label the parts of the microscope shown on the right,Knowledge
+List four types of clauses mentioned in the article,Knowledge
+List reserved words in C programming.,Knowledge
+List the characteristics peculiar to the Cubist movement.,Knowledge
+List the levels in Bloom's Taxonomy.,Knowledge
+List the procedure to draw a mixed potential or Evans' diagram,Knowledge
+List the steps involved in titration.,Knowledge
+List three characteristics that are unique to the Cubist movement.,Knowledge
+List three predominant economic systems that exist,Knowledge
+Look at the symbol. What is the symbolÉ??s purpose on a map?,Knowledge
+Make a list of facts you learned from the story.,Knowledge
+Name 5 steps that follow the taking of notes (within 24 hours or less)?,Knowledge
+Name the artist who painted the Mona Lisa.,Knowledge
+Name the food groups and at least two items of food in each group.,Knowledge
+Name the four major food groups.,Knowledge
+Name the main characters in the story.,Knowledge
+Name the property that states that,Knowledge
+Please label the diagram below:,Knowledge
+Recall basic math facts,Knowledge
+Recall locations of a historical events,Knowledge
+Recall the definition of the formula datatype from your assignment 2.,Knowledge
+Recall the equation for the Ideal Gas Law.,Knowledge
+Recall the following pictoral example of an implementation of some queue operations,Knowledge
+recall the supply voltage constraints,Knowledge
+Recite a policy of immigration in Europe .,Knowledge
+"Recite the poem ""Auto Wreck"".",Knowledge
+Recite the principles of the Data Protection Act.,Knowledge
+Recite the the Gaussian law,Knowledge
+State four attributes of well engineered software.,Knowledge
+State how to find a word in a dictionary,Knowledge
+State the characteristics of each type of corrosion testing studied,Knowledge
+State the definition of application in Bloom's Taxonomy.,Knowledge
+State the formula for the area of a circle,Knowledge
+State the guidelines to design an anodic protection system,Knowledge
+State the pattern for expressing time in French.,Knowledge
+State the rule for balls and strikes in baseball.,Knowledge
+State the rule for using a semicolon in a sentence.,Knowledge
+What are major facts about particular cultures and societies,Knowledge
+What are the major products and exports of countries,Knowledge
+What are the representational symbols on maps and charts,Knowledge
+What are the structure or functions of Congress,Knowledge
+What are the units of corrosion penetration rates? Relate these to Faraday's law,Knowledge
+What does ICT stands for.,Knowledge
+What is your family name,Knowledge
+What is a global variable?,Knowledge
+What is a textual index,Knowledge
+What is the setting of To Kill a Mockingbird?,Knowledge
+What is the title of the first movie you saw,Knowledge
+What season are we in right now?,Knowledge
+when did saudi arabia start using internet,Knowledge
+when did the first saudi radio station open,Knowledge
+When did the second world war happen,Knowledge
+When did you born ?,Knowledge
+when was the first airport in the yemen built,Knowledge
+when was the UN formed,Knowledge
+Which of the following is the method for determining the volume of a cylinder?,Knowledge
+Which of the following item does not belong to the set ?,Knowledge
+Which of the two liquids is hypotonic,Knowledge
+which part of a data packet is used by a router to determine the destination network,Knowledge
+Which technology is used by laser printer,Knowledge
+Who is the first president of USA,Knowledge
+who is the founder of the kingdom of saudi Arabia,Knowledge
+who was the first man on the moon,Knowledge
+who was the first to compose in the arts of makamat,Knowledge
+Who was the writer of the Hamilton,Knowledge
+Compare Calliope with Howie. Use the word bank.,Comprehension
+Compare historical events to contemporary situations,Comprehension
+Complete an analogy (analogy tasks are inference tasks),Comprehension
+Describe 4 types of coupling in software design.,Comprehension
+Describe how Phillip and Timothy survived on the Cay.,Comprehension
+Describe in prose what is shown in graph form.,Comprehension
+Describe in your own words how to borrow a book from the library.,Comprehension
+Describe in your own words how to copy text from one program into another.,Comprehension
+Describe in your own words what happens when a stream's velocity slows.,Comprehension
+Describe in your own words what is meant by a sprained ankle.,Comprehension
+Describe nuclear transport to a lay person.,Comprehension
+Describe the Pareto Principle in statistical software quality assurance.,Comprehension
+Describe what goes in each of the four areas on the first page of notes,Comprehension
+Describe what took place as the Hato was sinking.,Comprehension
+Describe how the linear polarization method can yield corrosion rates,Comprehension
+Describe the major clinical differences between visceral and somatic pain,Comprehension
+Briefly describe the author's approach to the liabilities of the GOTO statement,Comprehension
+Describe what happened at...?,Comprehension
+Determine the authorÉ??s point of view,Comprehension
+Determine the next number in a sequence,Comprehension
+Discuss the nature of socialism.,Comprehension
+Explain how Timothy saved Phillip's life.,Comprehension
+Explain in one's own words how to create a query in a database.,Comprehension
+Explain in your own words what a recessive gene is.,Comprehension
+Explain in your own words what do you mean by the term economics?,Comprehension
+Explain in your own words what is meant by mercantilism.,Comprehension
+Explain the causes of historical events,Comprehension
+Explain the communicative property.,Comprehension
+"Explain the double meaning the author attributes to the term ""successive action descriptions""",Comprehension
+Explain the possible uses described in class for the space to the left of the vertical line.,Comprehension
+Explain the process (paraphrase) for finding the perimeter of a rectangular garden,Comprehension
+Explain what a poem means.,Comprehension
+"Explain what the author means by the statement ""our intellectual powers are geared to master static relations.",Comprehension
+Express your opinion of 'Drugs in Sport' through poetry.,Comprehension
+From a blueprint to describe the article depicted.,Comprehension
+"Given a graph of production trends in automobiles, describe what the graph represents in a memo to your boss.",Comprehension
+"Given these five corrosion inhibitors, V, W, X, Y, Z, identify which are passivators",Comprehension
+"Illustrate this caption: ""Olympic as a Media Event in the Information Society"". Illustrate what you think the main idea was.",Comprehension
+In one sentence explain the main idea of a written passage.,Comprehension
+In one sentence illustrate the main point of a written passage.,Comprehension
+Interpret the pictures.,Comprehension
+Outline in your own words how the Leggo's Tomato Paste advertisement sells their product.,Comprehension
+Outline the most important insight of the tale.,Comprehension
+Outline the mechanisms employed by bacteria allowing them to evade phagocytic destruction.,Comprehension
+"Outline an ""attack plan"" that will allow you to test your hypothesis using computational molecular modeling tools",Comprehension
+Paraphrase an important speech,Comprehension
+Paraphrase what Hamlet is saying in his soliloquy.,Comprehension
+Paraphrase the poem in your own words,Comprehension
+"Paraphrase this poem about Sheik Schubli, explaining what he was saying about the characteristics of a friend",Comprehension
+Describe the output of this program fragment:,Comprehension
+Classify types of corrosion inhibitors,Comprehension
+would you classify the zener diode in this circuit as a series voltage regulator or a shunt voltage regulator,Comprehension
+"Classify the following protocols: IP, TCP, HTTP according to the ISO OSI classification",Comprehension
+"Classify the following substances as particle, atom, element, molecule, compound",Comprehension
+How would you classify the geographic location of your school,Comprehension
+Classify animals into two groups.,Comprehension
+Classify celebrations into family and community categories.,Comprehension
+Classify frogs toads and other amphibians.,Comprehension
+Restate main idea of story in own words.,Comprehension
+Restate the Olympic motto in your own words.,Comprehension
+Retell the story in your words.,Comprehension
+Rewrite the principles of test writing.,Comprehension
+Rewrite you predicted equation for the ideal gas law,Comprehension
+Rewrite the markov matrix to account for this slight change.,Comprehension
+"Rewrite the sentence in your head, following the direction given below",Comprehension
+Rewrite a part in the poem using a different speaker,Comprehension
+Select the best title for a passage,Comprehension
+State in your own words the rule for balls and strikes in baseball.,Comprehension
+State in your own words where in the library to find previous issues of journals that are no longer in the display racks.,Comprehension
+Can you state in your own words what the problem is asking you to do,Comprehension
+State in your own words what the author means when he says,Comprehension
+Summarize a historical document,Comprehension
+Summarize a story in own words.,Comprehension
+Summarize JemÉ??s beliefs about Boo Radley,Comprehension
+Summarize the basic tenets of collaborative conservation.,Comprehension
+Summarize the basic tenets of deconstructionism.,Comprehension
+Summarize this magazine article.,Comprehension
+Tell how Phillip kept himself alive after Timothy died.,Comprehension
+Tell in your own words how the setting of the story made it more interesting.,Comprehension
+Tell in your own words the beginning of the book.,Comprehension
+"In your own words, tell what is meant by the definition of an isosceles triangle.",Comprehension
+"In your own words, how would you define transferable skills",Comprehension
+Translate a written text aloud from L2 to English.,Comprehension
+Translate an equation into a computer spreadsheet.,Comprehension
+Translate an equation into a spreadsheet formula.,Comprehension
+Translate the following passage from The Iliad into English.,Comprehension
+Use the E-pH or Pourbaix diagram of Cr to determine the control current and potential for the anodic protection of a S43000 stainless steel vessel.,Comprehension
+"Compare and contrast two treatments of either drapery or animals by Greek sculptors, establishing their artistic contexts",Comprehension
+"Briefly compare this way of testing the satisfiability of to the more standard way using SLD Resolution, as in Prolog",Comprehension
+How would you compare SAS with the Visual Basic Application and SPSS for the processing and analysis of mainframe data,Comprehension
+Describe and compare the role of Islamic law in the legal systems of Malaysia and Pakistan,Comprehension
+Express the rule in function notation,Comprehension
+Express the following systems in matrix form,Comprehension
+Express the following percentages as fractions in simplest form,Comprehension
+Explain the whole method of crushing,Comprehension
+"In your own words, how would you summarize the story up",Comprehension
+Summarize the main point of these two texts in your own words,Comprehension
+Outline the aim of two studies within the,Comprehension
+Outline your experience in working with service users,Comprehension
+Apply laws of statistics to evaluate the reliability of a written test.,Application
+Apply shading to produce depth in drawing.,Application
+Apply the rule of law to a new situation,Application
+Apply the storytelling technique here to a little story of your own.,Application
+Apply your understanding the Olympic spirit to develop a new motto or slogan.,Application
+Show the value of x after running this program fragment,Application
+Calculate for x in the following equation: 12x=36,Application
+Calculate the deflection of a beam under uniform loading.,Application
+Calculate the number of sacrificial anodes that would be required to form a calcareous deposit on a steel pile immersed in seawater.,Application
+Calculate the rate of habitat fragmentation within the Colorado Front Range in the last decade.,Application
+Can you apply the method used to some experience of your own . . .?,Application
+Can you group by characteristics such as . . .?,Application
+Categorise the pictures and add them to the wall display.,Application
+Choose a country that does not compete at the Olympics and explain why that country is not an Olympic member.,Application
+Choose any U.S. president and explain how he exercised his power as Commander in Chief of the Armed Forces.,Application
+Compute the area of actual circles.,Application
+Compute the volume of a cylinder,Application
+Construct a model to demonstrate how it will work.,Application
+Demonstrate how the seasons occur.,Application
+Demonstrate how this could work in an industry setting?,Application
+Demonstrate using the OPAC and your knowledge of library organization to find a book about turtles.,Application
+Demonstrate how your unitÉ??s specific student learning outcomes are linked to the mission of UAM.,Application
+Derive a kinetic model from experimental data.,Application
+Describe an experiment to answer the question of the effects of weight on the fall of an object.,Application
+Construct a market strategy for your product using a known strategy as a model.,Application
+Construct a simple payroll program that computes net pay for those working 40 hours or less and net pay for those working over 40 hours.,Application
+"Draw 3 pictures showing the beginning, middle and ending of the story.",Application
+Draw a picture of the bears' house.,Application
+Draw a picture of the gown Cinderella wore to the ball.,Application
+"From the information given, can you develop a set of instructions about . . .?",Application
+How could someone modify the Cornell Method to make it effective for researching a topic for a paper?,Application
+How might lifestyles in the United States be modified if a more socialistic system were adopted?,Application
+"If notes are available on the professorÉ??s website, how should those notes be used?",Application
+"In a teaching simulation with your peers role-playing 6th grade students, demonstrate the principle of reinforcement in classroom interactions and prepare a half page description of what happened during the simulation that validated the principle.",Application
+Make a diorama to illustrate an important event.,Application
+Make a paper-mache map to include relevant information about an event.,Application
+Make a scrapbook about the areas of study.,Application
+Make up a puzzle game using the ideas from the study area.,Application
+Model an Olympic Village for the new Millenium.,Application
+Participate in a mock election,Application
+Predict what happens to X if Y increases.,Application
+Pretend you are one of the characters in the book. Write a diary about the happenings in your life for two consecutive days.,Application
+Relate the principle of reinforcement to classroom interactions.,Application
+Relate topographic map to field features,Application
+Relate your most powerful story where your use of technology in the classroom has yielded a significant outcome with a student or students,Application
+How would you relate position concept with position strategy,Application
+"Show, through role-play, the final scene in the novel.",Application
+Solve a math problem using familiar procedure or formula,Application
+Solve for the ten following fraction multiplication problems. Please make sure to show all your work.,Application
+Would you solve these two problems using similar approaches,Application
+Use Laplace to solve the following problems,Application
+Can you solve the following problem,Application
+How to specify the impact energy and impact test temperature of the material in the Code,Application
+Specify the thickness of a galvanized coating based on atmospheric data? (level 2),Application
+Specify the thickness of a galvanized coating based on atmospheric data? (level 2),Application
+How does one specify the syntactical restrictions,Application
+Specify a deterministic finite automaton (DFA) recognizing the,Application
+Take a collection of photographs to demonstrate a particular point.,Application
+Use a costing model to compute prices on goods to maximise profits and minimise costs.,Application
+Use a manual to calculate an employee's vacation time.,Application
+Use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.,Application
+Use the rule for a semicolon in a sentence.,Application
+What factors would you change if . . .?,Application
+What questions would you ask if . . .?,Application
+Who can use what we know about sonnets and finish this poem?,Application
+Would this information be useful if you had a . . .?,Application
+Sketch a prediction of the field lines for the arrangement of electrodes shown in Figure 2,Application
+Sketch the blackbody curves for radiation emitted from the Sun and the Earth,Application
+Sketch a typical absorption process in a packed column with regeneration in form of,Application
+sketch a graph of velocity versus time for the upward and downward parts of a ballÉ??s flight,Application
+How do teenagers use code in emails and instant messages?,Application
+Use the second-derivative test to determine whether critical points where f0(x) = 0 yield relative maxima or relative minima,Application
+Use the unification algorithm to determine whether the following two terms are uni_able. Show intermediate step,Application
+Use tableau methods to prove that the following tableau is valid.,Application
+Use a sketch too find the exact value of each expression,Application
+Use GaussÉ?? Law to find the electric field between the plates when the charge on them is Q,Application
+What happens if you restrict a determinental process to a subset R S?,Application
+What would happen if the rainfall doubled in your state next year,Application
+What happens if you change the direction of the displacement (but not its size)?,Application
+What would you do if a heavy growth of bacteria had occurred,Application
+What would result if É??,Application
+What approach would you use to prove the truth of the below statement,Application
+Construct one Turing Machine for computing each of the following functions,Application
+Construct a Venn diagram to determine the validity of the given argument.,Application
+Construct a dictionary and a truth table to determine if the following statements are logically equivalent,Application
+"How can we construct H given I, B and E?",Application
+Construct a family of networks to demonstrate that the number of different mincuts in a network can be exponential in the size of the network,Application
+How do you construct foliations on a given manifold M?,Application
+How to Construct the Optimal Maintenance Problem,Application
+How to construct simple solutions when problems are complex?,Application
+Construct the 4-Bit Ripple carry Adder Circuit,Application
+Construct an analog circuit with the following specifications,Application
+Construct the Data Path of the RISC Processor given in the previous question,Application
+How do we construct agents that can deliver. É??goodÉ?ù assistance,Application
+How to construct the selected information system,Application
+Show how they have used creative writing strategies appropriate to the format,Application
+Show how to modify Fitch's algorithm given in class today to accommodate non-binary,Application
+Show how E-CRM can be used to improve marketing positioning as explained in the article,Application
+How would you show your understanding of the ABC process,Application
+Show me how you would check the brake lights are working on this car,Application
+Analyze safe and dangerous aspects of these features.,Analysis
+Analyze the characteristics of frogs.,Analysis
+Analyze the movements and sounds of a frog.,Analysis
+"Analyze the problem, identifying its variables.",Analysis
+Break down the components of a standard film camera and explain how they interact to make the machine work.,Analysis
+Break down the main actions of the story.,Analysis
+"By comparing the map of the tectonic plates to the earthquake map, what inferences can you make?",Analysis
+Can you compare your . . . with that presented in . . .?,Analysis
+Can you distinguish between . . .?,Analysis
+Can you explain what must have happened when . . .?,Analysis
+Can you find four different feelings Pa Lia had during the story?,Analysis
+Compare and contrast animals that the class has made.,Analysis
+Compare and contrast our school to other communities.,Analysis
+"Compare and contrast preview questions, clarifying questions and anticipated exam questions, including how each relates to the notetaking process?",Analysis
+Compare and contrast the waterfall model with the prototyping model.,Analysis
+Compare and contrast two characters in the book.,Analysis
+Compare fall and spring,Analysis
+Compare herbatious and carnivorous animals on a Venn diagram.,Analysis
+Compare how different children come to school.,Analysis
+Compare the place where the story happened with where you live.,Analysis
+Compare this book to the last book you read.,Analysis
+Compare three celebrations using a Venn diagram.,Analysis
+Compare two dog food commercials. What is the difference between them and how do they both sell their products?,Analysis
+Compare two of the characters in this book.,Analysis
+Conduct an investigation to produce information to support a view.,Analysis
+Contrast building in the coastal zone with building in a river floodplain.,Analysis
+Contrast Olympic athletes of today with athletes of past Olympic games.,Analysis
+Differentiate between .call by value and call by reference.,Analysis
+Differentiate printf function calls for displaying prompts and for echoing data.,Analysis
+Distinguish between micro and macro economics.,Analysis
+Distinguish facts from hypotheses,Analysis
+"Divide the story into initiating event, rising action, climax, and falling action",Analysis
+"Examine what helps to make a good Olympics? Think about money, schedules, sports and people.",Analysis
+"Explain the term conjugal families, by making reference to the different types of societies to which they could belong.",Analysis
+analyze the positive and negative points presented concerning the abolition of guns and write a brief (2-3page) narrative of your analysis.,Analysis
+"Differentiate the passages that attacked a political opponent personally, and those that attacked an opponent's political programs.",Analysis
+How does your pet differ from other animals?,Analysis
+How does...compare/contrast with...?,Analysis
+How is . . . similar to . . .?,Analysis
+How was life different in your town 100 years ago?,Analysis
+How was this similar to . . .?,Analysis
+How would this story be different if it had happened in a different country?,Analysis
+How would you distinguish between polymyositis and viral myositis in a 42-year-old man with weakness and a rash?,Analysis
+"If your story happened in a foreign land, compare that land to the United States.",Analysis
+"If your story occurred long ago, compare that time with today in a good paragraph. If it was a modern story, compare it with a long time ago and tell what would be different.",Analysis
+Investigate innovations that can enhance future Olympics.,Analysis
+Make a diagnosis or analyze a case study.,Analysis
+Select the athlete of the century and analyze why you chose this person.,Analysis
+"If interest were compounded monthly instead of daily, what would the difference in interest be?",Analysis
+What are the parts or features of...?,Analysis
+Distinguish between the following giving suitable examples,Analysis
+Distinguish between abstract date types (ADTs) and implementations of ADTs,Analysis
+"How do you distinguish between the binge-eating/purging type of anorexia nervosa and bulimia nervosa, purging type",Analysis
+How does Tdap differ from Td vaccine,Analysis
+How does autonomy differ with age,Analysis
+In what ways do female offenders differ from male offenders,Analysis
+in what ways trajectory patterns differ according to ABC,Analysis
+How do psychologists differ in their general attitudes toward third party presence,Analysis
+How did Chinese newspapers differ from US,Analysis
+How does public health reporting differ today from reporting two years before,Analysis
+How does an endorsement differ from a teaching certificate,Analysis
+How do we differentiate between genuine buyer and undercover buyer,Analysis
+How do we differentiate between an interview and an interrogation?,Analysis
+Differentiate between the following terms along with appropriate examples,Analysis
+Differentiate the following functions using the quotient rule,Analysis
+Can you differentiate between ethnic Chinese and ethnic Koreans,Analysis
+How would you differentiate obstructive apneas from central apneas,Analysis
+How would you differentiate a project from a program,Analysis
+How is scientific progress similar to Darwinian evolution according to Kuhn,Analysis
+"in what ways is oxyperoxidase similar to other oxygenated heme proteins, and how does it differ",Analysis
+In what ways are foxes similar to wolves and dogs,Analysis
+How are the adolescents with ASD similar of different from each other in their sources of communication breakdowns ?,Analysis
+Examine the data in the EMPLOYEES and DEPARTMENTS tables,Analysis
+Examine the differences between the model excluding the most influential observation and the model including all observations.,Analysis
+Critically examine the strengths and weaknesses of the positivist paradigm,Analysis
+Examine differences between the means of each individual switching factor.,Analysis
+Examine carefully the given map extract on the following page to help you work out the exercise below.,Analysis
+"Inspect each of these Boolean expressions, and determine whether each one is a sum of products, or a product of sums",Analysis
+Inspect the size of the loaded data: how many objects and variables does the iris data matrix contain?,Analysis
+Can you distinguish for me between what is reasonably achievable and what are exaggerations,Analysis
+Can you distinguish aged rums from unaged rums by smell,Analysis
+Can you distinguish pot still rums from column still rums by taste,Analysis
+Inspect the pattern of GPS positions relative to the É??knownÉ?ù published value,Analysis
+How does your agency inspect against its expectation for operators,Analysis
+How to inspect and maintain fresh water plumbing systems properly,Analysis
+Can you analyze the fractures and determine which should be repaired surgically,Analysis
+Can you please analyze modern contemporary culture and tell me how your work plays a significant part in the remains of our post-modernist culture ?,Analysis
+"How effectively did students analyze course content on race, class, and privilege through autobiographical reflection",Analysis
+How do you analyze a marginally RCT,Analysis
+"Contrast the treatment of ""well known"" trademarks provided by Paris Article and by TRIPS Article",Analysis
+Contrast the Valles Marineris on Mars with the Grand Canyon,Analysis
+How does Hawaii contrast and compare to Florida?,Analysis
+Investigate whether or not the system can be solved for x; y; z,Analysis
+Investigate (pointwise) convergence and absolute convergence of the given series of functions,Analysis
+How would you investigate this patient,Analysis
+How would you investigate this abnormality,Analysis
+What can I do to investigate this problem further,Analysis
+how the investigation was undertaken,Analysis
+How would you differentiate between heterodox and mainstream,Analysis
+"How do I differentiate between ""deceive"" and ""cheat on""?",Analysis
+Apply and integrate several different strategies to solve a mathematical problem (not according to one formula(,Synthesis
+Can you create new and unusual uses for . . .?,Synthesis
+Can you design a . . . to . . .?,Synthesis
+Can you develop a proposal which would . . .?,Synthesis
+Can you invent another character for the story?,Synthesis
+Can you see a possible solution to . . .?,Synthesis
+Can you write a new recipe for a tasty dish?,Synthesis
+Choose a character. Rewrite a scene from the story from this character's point of view.,Synthesis
+Combine any two sports to develop a new Olympic sport.,Synthesis
+"Combine elements of drama, music, and dance into a stage presentation.",Synthesis
+Compose a class story.,Synthesis
+Compose a dialogue between Atticus Finch and Tom Robinson when they first met.,Synthesis
+Compose a rhythm or put new words to a known melody.,Synthesis
+Compose a simple rap or rhyme about zoo animals.,Synthesis
+Compose music for a frog play.,Synthesis
+Compose a complete C program that reads text strings from a text file into a suitable data,Synthesis
+Compose a device that would assist an athlete in their training.,Synthesis
+Compose an original work which incorporates five common materials in sculpture.,Synthesis
+Compose your own note-taking design that incorporates all theadvantages of the Cornell Method.,Synthesis
+Create a chart that compares things that use electricity and things that do NOT use electricity.,Synthesis
+Create a new product. Give it a name and plan a marketing campaign.,Synthesis
+"Create a new song for the opening line of ""Mary had a little lamb"".",Synthesis
+Create a set of guidelines to determine the points of a plant susceptible to localized corrosion.,Synthesis
+Create a storyboard for a sequel to your book. Use the same characters.,Synthesis
+Create an equation to represent the solution to this problem.,Synthesis
+Create and perform a play about frogs.,Synthesis
+Create plan of local environment by drawing around boxes.,Synthesis
+Design a building according to given specifications,Synthesis
+design a cost effective strategy to generate reliable data.,Synthesis
+Design a machine to perform a specific task.,Synthesis
+Design a new animal to live in the jungle.,Synthesis
+Design a poster for this book.,Synthesis
+Design a testing scenario to assess the susceptibility of an alloy to be used in a given environment?,Synthesis
+Design and make an animal that moves.,Synthesis
+Design costumes for the characters.,Synthesis
+Design the architecture of the software system based on the requirements defined in the Software Requirement Specification document,Synthesis
+Develop a hypothesis.,Synthesis
+Develop a plan for a new Olympic Bid System.,Synthesis
+Develop a SQA Plan for a software development project which is defined in the attached document.,Synthesis
+"Develop a way to teach the concept of ""adjectives"".",Synthesis
+Develop one plausible ending for all three short stories below.,Synthesis
+Devise a new economic system based on the ones that already exist.,Synthesis
+Devise plans to market or make artwork more valuable.,Synthesis
+Draw a painting that uses various principles of perspective to achieve its effect.,Synthesis
+"Explain how the biological concept of symbiotic relationships could be used to help solve socially created problems like water pollution, overflowing garbage landfills, or homelessness.",Synthesis
+Explain why it is likely that a matriarchal family system would be found in a matrilocal or matrilineal society.,Synthesis
+"Following the identification of the forms of corrosion that were involved in a failure, recommend a solution to avoid this failure?",Synthesis
+Given two opposing theories design an experiment to compare them.,Synthesis
+How could we determine the number of pennies in a jar without counting them?,Synthesis
+How could you re-write this story with a city setting?,Synthesis
+"how do the clauses and expressions given in the article which replace GOTO statements, lead to the three traditional control statements",Synthesis
+How many ways can you . . .?,Synthesis
+How would the U.S.A. be different if the South had won the Civil War?,Synthesis
+How would you change the story to create a different ending?,Synthesis
+How would you create/design a new...?,Synthesis
+How would you restructure the school day to reflect children's developmental needs?,Synthesis
+Identify one problem in the book and give an alternate solution one not given by the author.,Synthesis
+If you had access to all resources how would you deal with . . .?,Synthesis
+Integrate training from several sources to solve a problem.,Synthesis
+Invent a machine to do a specific task.,Synthesis
+Justify your choice of data structure.,Synthesis
+Make a radio announcement that advertise the book. Write it out.,Synthesis
+Make up a new language code and write material using it.,Synthesis
+Name one character. Rewrite the story from this character's point of view.,Synthesis
+Organize this book into three or more sections and give your own subtitle for each section.,Synthesis
+Plan a research paper on a given historical topic,Synthesis
+Predict the differences of a planet with no seasonal changes.,Synthesis
+Prepare a book jacket that illustrates the kind of book as well as the story.,Synthesis
+Pretend you are a librarian recommending this book to someone. Write a paragraph telling what you would say.,Synthesis
+Revise and process to improve the outcome.,Synthesis
+Revise how to complete a complex task in order to improve the outcome.,Synthesis
+Revises and process to improve the outcome.,Synthesis
+"structure, sorts the list in ascending order, displays the list on the screen and stores the list",Synthesis
+Suppose Phillip wasn't rescued shortly after Timothy's death. How long could he have survived?,Synthesis
+"Using information from the book about one of the main characters, rewrite the ending of the book.",Synthesis
+What ideas can you add to...?,Synthesis
+What might happen if you combined...?,Synthesis
+What solutions would you suggest for...?,Synthesis
+What would happen if . . .?,Synthesis
+What would you predict/infer from...?,Synthesis
+Why donÉ??t you devise your own way to deal with . . .?,Synthesis
+Why not compose a song about . . .?,Synthesis
+"Write a C program that accepts integer inputs from the screen, computes the total and average values; and displays the values on the screen.",Synthesis
+Write a letter to the editor on a social issue of concern to you.,Synthesis
+Write a logically organized argument in favor of a given position.,Synthesis
+Write a poem about this book.,Synthesis
+Write a set of rules to prevent what happened in the story.,Synthesis
+Write a short story relating a personal experience in the style of a picaresque novel.,Synthesis
+Write a song about 'Old MacDonald' who had a bulldozer instead of a farm.,Synthesis
+Write an essay in not more than 250 words about India and Technological Advancement. Use active voice as much as possible.,Synthesis
+How do you combine the results of various individual tests to determine whether a student can progress to a next semester / phase / year?,Synthesis
+How can we combine and abstract facts about a software system to create new knowledge?,Synthesis
+How to combine virtual symmetry and symbolic model checking effectively,Synthesis
+How do we efficiently combine multiple subject graphs to construct an aig with choice,Synthesis
+how do we devise a way to enforce the laws,Synthesis
+can you devise an explicit formula for,Synthesis
+Do you devise a systematic approach in order to get larger progressions,Synthesis
+Develop and execute a program for this exercise,Synthesis
+Develop a network based on the following information: Activity Immediate predecessors,Synthesis
+How could we develop a coherent measure of success for organisations engaged in this type of activity with young people?,Synthesis
+"After designing an experiment, examining the results, and drawing conclusions, determines in what ways the experiment could be conducted more effectively in order to draw more productive conclusions in the future.",Evaluation
+"After examining the videotape of a play in a football game, determine the degree to which the defensive team performed effectively and",Evaluation
+"After solving a problem, determine the degree to which the problem was solved as efficiently as possible",Evaluation
+Appraise data in support of a hypothesis.,Evaluation
+Appraise the speech's effectiveness based upon the class' criteria.,Evaluation
+Are there students who should not use the Cornell method?,Evaluation
+Are you a . . . person?,Evaluation
+Assess the appropriateness of an author's conclusions based on the evidence given.,Evaluation
+Assess the importance of understanding seasonal patters.,Evaluation
+Assess the relative effectiveness of different graphical representations of the same data or biological concept.,Evaluation
+Assess the strengths and weaknesses of the current Olympics and recommend action that should be taken in future Olympics: What can be,Evaluation
+"Award the contract to the best proposal. Rank the principles of ""good sportsmanship"" in order of importance to you.",Evaluation
+Can you defend the idea that Simon's incident with the pig's head is the most mystical in the story?,Evaluation
+Can you defend your position about . . .?,Evaluation
+Choose a paint schedule for the maintenance of an outdoor structure? (level 2),Evaluation
+Choose and illustrate the two most important events in the story.,Evaluation
+Conclude and support which economic system leads to a higher standard of living.,Evaluation
+Construct a poster that will advertise your new food product in an exciting and irresistible way.,Evaluation
+Critique an experimental design or a research proposal.,Evaluation
+"Critique the other student's (or your own) speech, based on the criteria we have studied this semester.",Evaluation
+Decide whether you are in favor of building on a floodplain; defend your position in a debate.,Evaluation
+Decide whether you could have survived on the island blind and alone. Write about things that would have been challenging making sure to,Evaluation
+Decide whether you learned enough about electricity from this book.,Evaluation
+Decide which candidate would best fill the position of principal.,Evaluation
+Decide which course of action was most effective,Evaluation
+Decide which method of solving a problem was most effective,Evaluation
+Defend the following claim: The Cornell method works so well that it could turn even a poor lecture into a valuable learning experience.,Evaluation
+Defend your use of a specific strategy in solving the problem.,Evaluation
+Describe the economic consequence of a neolocal society. Support your description with information you have learned from this course.,Evaluation
+Design a healthy menu that you think most people would enjoy using the healthy eating guide.,Evaluation
+Determine if a characterÉ??s actions were heroic,Evaluation
+Do you agree...?,Evaluation
+Do you think . . . is a good or a bad thing?,Evaluation
+Establish criteria for making this choice and defend your final selection.,Evaluation
+"Evaluate a work of art, giving the reasons for your evaluation.",Evaluation
+Evaluate appropriate and inappropriate actions of characters.,Evaluation
+Evaluate board games and justify why rules are important.,Evaluation
+Evaluate the corrosion monitoring needs of a chemical processing plant,Evaluation
+Evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4),Evaluation
+Evaluate two Internet sources of information about the Egyptians. Which would be a better choice for your purpose and why?,Evaluation
+Evaluate whether their model is a true representation of the local environment.,Evaluation
+Evaluate your own or a peer's essay in terms of the principles of composition discussed during the semester.,Evaluation
+Examine the stated positions of both major political candidates with regard to a particular issue and state good reasons (based on principles discussed in class) for why one candidates position is more likely to be effective than the other's.,Evaluation
+Explain and justify a new budget.,Evaluation
+Explain choices made in making recommendations to an end user.,Evaluation
+"Given an argument on any position, enumerate the logical fallacies in that argument.",Evaluation
+"Given the data available on a research question, take a position and defend it.",Evaluation
+"Given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer.",Evaluation
+"Given the two solutions to the stated programming problem, rate the solutions in terms of efficiency and readability.",Evaluation
+"Given three possible approaches to implement the defined system, discuss the possible advantages and disadvantages of each approach.",Evaluation
+"Given two possible solutions, A and B, to solving the given software development problem, decide on the best solution. Give your justification.",Evaluation
+How effective are . . .?,Evaluation
+How would you decide about...?,Evaluation
+How would you feel if . . .?,Evaluation
+How would you have handled . . .?,Evaluation
+"improved, reformed or rejected?",Evaluation
+"In a given clinical situation, select the most reasonable intervention and predict the main effects and possible side effects.",Evaluation
+Is there a better solution to . . .?,Evaluation
+Judge aesthetic qualities and relationship to future values.,Evaluation
+judge the difficulty level for yourself.,Evaluation
+Judge the value of . . .?,Evaluation
+Judge whether it would be possible to survive on an island alone and blinded. Write about it.,Evaluation
+Judge whether Olympic Ideals are realistic or unrealistic for the contemporary elite athlete.,Evaluation
+Justify and nominate ways to prevent animal extinction.,Evaluation
+Justify the title To Kill a Mockingbird .,Evaluation
+Listen to two classmates conversing on tape and critique their performance on the basis of the skills covered this semester.,Evaluation
+Place the following in order of priority...,Evaluation
+Predict what will happen next in.,Evaluation
+Predict whether Phillip will ever go back to visit the Cay after several years of recovery. Assuming he gets his sight back.,Evaluation
+Recommend how our classroom or playground could be improved.,Evaluation
+Select the best proposal for a proposed water treatment plant.,Evaluation
+Select the most effective solution.,Evaluation
+suggest ways in which it could have responded more effectively,Evaluation
+decide about the most exciting part of the book. being sure to give at least three reasons why?,Evaluation
+Use a judge and jury to discuss the statement 'Children enjoy Anthony Browne's books because of the illustrations'.,Evaluation
+"Using straight value depreciation, decide between two copper-nickel alloys for the design of a heat exchanger.",Evaluation
+"Using the basic principles of socialism discussed in this course, evaluate the US economic system by providing key arguments to support your judgment.",Evaluation
+Was Hemingway a great American writer? First you will need to define greatness.,Evaluation
+What changes to would you recommend?,Evaluation
+What criteria would you use to assess the validity of a business contract?,Evaluation
+What criteria would you use to assess?,Evaluation
+What do you think about genetic algorithm?,Evaluation
+What is part of this book did you like best. Tell why you like it?,Evaluation
+What is the most important?,Evaluation
+Which of the following actions would probably be least effective in determining the answer?,Evaluation
+"Which of the two algorithms, bubblesort or quicksort, is more efficient? Justify your answer.",Evaluation
+Would you have liked to have had Cinderella for a sister? Explain why or why not.,Evaluation
+Write a list of criteria to judge the Willy raps.,Evaluation
+Revise the story and specify the type of audience that would enjoy this book.,Evaluation
+Estimate the epicentral coordinates of the earth-quake,Evaluation
+Estimate the risk of serious illness for consumers in different susceptible population groups,Evaluation
+Estimate expenditure on HIV/AIDS education,Evaluation
+Estimate the difficulty of the question,Evaluation
+Estimate roughly how long the collision process takes,Evaluation
+What do you think is the best thing about coming to Viestal?,Evaluation
+What do you think is the mass and why,Evaluation
+What do you think are the strengths of using integrated math in your program?,Evaluation
+Do you think that this statement conveys the idea that i am trying to portray,Evaluation
+How do you think the community should grow or change,Evaluation
+How Do You Think One Should Reason in Making Ethical Decisions in Business,Evaluation

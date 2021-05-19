@@ -1,0 +1,61 @@
+Questions
+What is an operating system?
+Recite the main purpose of an operating system.
+Name different types of operating systems.
+Define socket
+Draw and label the conceptual view of computer systems.
+What is kernel?
+What do you mean by monolithic kernel?
+Recall a Process's definition
+Make a list of different operating systems and it's examples.
+List the different states of a process.
+Describe micro kernel and macro kernel.
+Explain the concept of reentrancy.
+Briefly describe process and program.
+Tell in your words the use of paging in operating system.
+State in your own words the concept of demand paging?
+Discuss the advantages of a multiprocessor system
+Restate virtual memory.
+Rewrite thrashing.
+In one sentence explain deadlock.
+Paraphrase thread.
+Apply your understanding to scheduling Algorithms.
+Can you group the given processes into different kinds of scheduling algorithms they follow.?
+Show the output of given code snippet.
+Categorise operating sytems with demonstrations.
+choose any one of the scheduling algorithms and apply understanding to it or demonstrate it.
+Compute page fault if page reference are given
+Construct a page table entry and demonstrate its contents.
+How would you show Inter Process Communication(IPC).
+Draw file system organized in many layers.
+what would result when a program attempts to access a block of memory that is not stored in the physical memory?
+Analyze the conditions and characteristics for deadlocks.
+Can you distinguish between mutex and semaphore?
+Can you explain what must have happened during communication between processes using shared memory method.?
+Differentiate between shared memory and message passing.
+Distinguish between independent and co-operating processes.
+Examine what helps to make a better solution for dining philosophers problem.
+How does Process Image differ from Multi Thread Process image.
+How would you distinguish between spooling and buffering?
+Explain the term Process image By making reference to its contents.
+In what ways do buffering differ from caching in os?
+Identify one problem in detecting deadlocks and give an alternate solution to this which is not given by the author.
+Plan a research paper on an new algorithm that could detect deadlocks .
+Invent different conditions to detect deadlocks.
+How could you re-write caching with all the necessary conditions and points.
+Design a code snippet to implement LRU cache.
+What new ideas can you add to the LRU cache implementation.
+What solutions would you suggest to differentiate preemptive from Non-preemptive scheduling.
+Write a Java program to find the number of page faults using least recently used (LRU) page replacement algorithm with 3 page frames.
+Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
+Write a program that copies the contents of one file to a destination file. This program works by first prompting the user for the name of the source and destination files.
+Assess the strength and weaknesses of Banker's algorithm.
+conclude and support which one of the disk scheduling algorithms gives better solution.
+Evaluate the prerequisite for understanding convoy effect.
+choose and illustrate two better process schedulers .
+Decide which one method of preventing zombie process methods is better.?
+Decide if all the algorithms that you have learnt in operating systems were helpful while applying to few of your daily problems.
+Do you agree if we say SSTF is one of the better and widely known disk scheduling algorithm
+What do you think about fork() system call OS.
+"Given a snippet of code ,decide which one of the processes gets executed first."
+consider whether the operating system should include applications such as web browsers and mail programs. Conclude with your suggestion.

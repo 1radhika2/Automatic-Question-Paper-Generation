@@ -1,0 +1,161 @@
+Questions,Category
+"Can NS-3 simulator be used to simulate Fat tree,BCube,porland ?",Analysis
+What are the simulators available for quantum key distribution?,Knowledge
+Explain the Different layers of the OSI model.,Comprehension
+How do you implement routing protocol for veins (omnet++)?,Analysis
+What is the best tool/way for fast parsing of ~80 GB pcap.gz files?,Knowledge
+Difference between bit rate and baud rate.,Comprehension
+"Analyse unit,intergration and system testing for currency converter application.",Analysis
+Explain the steps to be performed to design algorithm.,Comprehension
+Name the factors that affect the performance of the network?,Knowledge
+"Define the terms Unicasting, Multiccasting and Broadcasting",Knowledge
+Describe at one disadvantage of a peer to peer network.,Comprehension
+How can you manage a network using a router?,Application
+One way of securing a network is through the use of passwords. What can be considered as good passwords?,Analysis
+What happens when you use cables longer than the prescribed length?,Knowledge
+You need to connect two computers for file sharing. Is it possible to do this without using a hub or router?,Evaluation
+How are IP addresses arranged and displayed?,Knowledge
+"When troubleshooting computer network problems, what common hardware-related
+ problems can occur?",Analysis
+How does dynamic host configuration protocol aid in network administration?,Application
+Explain profile in terms of networking concept?,Comprehension
+How do bridges pass spanning tree information between themselves?,Application
+Describe a recent short term stressful situation and how you managed it.,Comprehension
+Describe what a VPN is and how it works.,Comprehension
+Describe the components of an enterprise-class database system and explain the functions they perform,Comprehension
+How do you manage multiple concurrent high level projects?,Analysis
+"Have you worked in an assignment based environment, e.g. work request/trouble ticket system,
+ and if so, describe that environment.",Analysis
+"I can’t seem to access the Internet, don’t have any access to the corporate network and on ipconfig my address is 169.254.*.*. What happened?",Analysis
+How do cryptography-based keys ensure the validity of data transferred across the network?,Analysis
+"You need to retrieve a file from the file server for your word processing application, which layer of the OSI model is responsible for this function?",Knowledge
+Compare Error Detection and Error Correction:,Comprehension
+How do you go to privileged mode? How do you switch back to user mode?,Knowledge
+Brielfly explain the conversion steps in data encapsulation.,Comprehension
+How have you gained commitment from your team?,Analysis
+What are some basic ways to speed up network performance?,Knowledge
+"Tell me, you can ping servers on the subnet your workstation is on, but not other subnets. What is wrong?",Analysis
+"Explain how to find real IP address of the client that is connecting with a server, if the client is using Proxy",Application
+Can we communicate by using only the MAC address in Same network?,Analysis
+Suppose user calls in and complains that her computer and network is running very slow. How would you go about troubleshooting it?,Application
+Can a machine with a single DNS name have multiple IP addresses? If yes then how could this occur?,Evaluation
+What is the difference between simplex and duplex?,Comprehension
+What is Active Directory in Computer Networks?,Knowledge
+Explain in detail about the working of SWITCH in Networking?,Comprehension
+Suppose If you are given the IP address can u tell how many computers can be connected?What do you look at?,Analysis
+What is Beaconing in Computer Networks?,Knowledge
+What is the function of Transmission Control Block?,Knowledge
+what is the difference between interior and exterior neighbor gateways?,Comprehension
+What advantage does REX offer other similar utilities?,Knowledge
+Suppose you are given only the IP address of the switch but not the port number. How will you read that switch?,Application
+There are four routers and 4 switches and 40 computers in an office. How will you connect each devices and configure those devices?,Application
+Explain benefits of VPN? Difference between L2TP and PPTP Protocols?,Comprehension
+How to configure two DHCP Servers using 2 swithces with 1 DSL. Keep in mind we cannot use any other additional equipment?,Application
+Windows crashed because NTLDR File is missing. How will you restore this file (Without using Safe Mode Option)?,Application
+difference between TCP/IP host name and netBIOS host name,Comprehension
+"Dial-up modems, HFC, DSL and FTTH are all used for residential access.comment on whether the transmission rate for each is shared or dedicated.",Evaluation
+Describe the most popular wireless Internet access technologies today. Compare and contrast them.,Comprehension
+Consider sending a packet from a source host to a destination host over afixed route. List the delay components in the end-to-end delay.,Analysis
+"Suppose Host A wants to send a large file to Host B. The path from Host A to
+ Host B has three links, of rates R1 = 500 kbps, R2 = 2 Mbps, and R3 = 1 Mbps. Assuming no other traffic in the network, what is the throughput for the
+ file transfer?",Application
+Design and describe an application-level protocol to be used between an automatic teller machine and a bank’s centralized computer as you wish.,Synthesis
+"Equation 1.1 gives a formula for the end-to-end delay of sending one packet of length L over N links of transmission rate R. Generalize this formula for
+ sending P such packets back-to-back over the N links.",Synthesis
+Review the car-caravan analogy in Section 1.4. Assume a propagation speed of 100 km/hour.,Evaluation
+"Express the propagation delay, dprop, in terms of m and s.",Synthesis
+"Suppose s = 2.5 · 108, L = 120 bits, and R = 56 kbps. Find the distance mso that dprop equals dtrans.",Application
+Find the average and standard deviation of the round-trip delays at each of the three hours.,Application
+Find the number of routers in the path at each of the three hours. Did the paths change during any of the hours?,Application
+"Derive a general expression for throughput in terms of Rs , Rc, R, and M.",Synthesis
+"Suppose two hosts, A and B, are separated by 20,000 kilometers and are connected by a direct link of R = 2 Mbps. Suppose the propagation speed
+ over the link is 2.5*108 meters/sec. Calculate the bandwidth-delay product, R dprop.",Application
+"Derive a general expression for the width of a bit in terms of the propagation speed s, the transmission rate R, and the length of the link m.",Synthesis
+Discuss the drawbacks of message segmentation.,Comprehension
+"List the four broad classes of services that a transport protocol can provide. For each of the service classes, indicate if either UDP or TCP (or both) provides such a service.",Knowledge
+What is an overlay network? Does it include routers? What are the edges in the overlay network?,Knowledge
+List at least four different applications that are naturally suitable for P2P architectures.,Knowledge
+Now suppose a cache is installed in the institutional LAN. Suppose the miss rate is 0.4. Find the total response time.,Application
+Write a simple TCP program for a server that accepts lines of input from a client and prints the lines onto the server’s standard output.,Synthesis
+Suppose that in the five-minute interval no new messages have been sent to you. Provide a transcript of this second POP session.,Synthesis
+Discuss why whois databases should be publicly available.,Comprehension
+Describe how an attacker can use whois databases and the nslookup tool to perform reconnaissance on an institution before launching an attack.,Comprehension
+"Conclude that the minimum distribution time is in general given by max{NF/us , F/ dmin}.",Evaluation
+Can you configure your browser to open multiple simultaneous connections to a Web site?,Analysis
+What is the Apache Web server? How much does it cost?,Knowledge
+develop a simple Web server in Python that is capable of processing only one request.,Synthesis
+"write a client ping program in Python. Your client will send a simple ping message to a server, receive a corresponding pong message back from the server.",Synthesis
+"create a simple mail client that sends email to any recipient. Your client will need to establish a TCP connection with a mail server dialogue with the mail server using the
+ SMTP protocol, send an email message to a recipient via the mail server, and finally close the TCP connection.",Synthesis
+"develop a Web proxy. When your proxy receives an HTTP request for an object from a browser, it generates a new HTTP request for the same object and sends it to the origin server",Synthesis
+Design the simplest possible transport-layer protocol that will get application data to the desired process at the destination host.,Synthesis
+"Is it possible for an application to enjoy reliable data transfer even when the application runs over UDP? If so, how?",Analysis
+What are the source and destination port values in the segments flowing from the server back to the clients’ processes?,Knowledge
+Suppose you have the following 2 bytes: 01011100 and 01100101. What is the 1s complement of the sum of these 2 bytes?,Analysis
+Draw the FSM for the receiver side of protocol rdt3.0.,Knowledge
+"Draw a diagram showing that if the network connection between the sender and receiver can reorder messages , then the alternating-bit protocol will not work correctly",Synthesis
+Design an error-control protocol for the unidirectional reliable transfer of messages. Give an FSM description of the sender and receiver.,Synthesis
+"Design (give an FSM description of) a protocol that incorporates the appropriate mechanisms to compensate for the loss-prone A-to-B channel and
+ implements message passing to the layer above at entity A, as discussed above.",Synthesis
+compute the TCP TimeoutInterval after each of these samples is obtained.,Application
+"Argue that in order for
+ the link to always be busy sending data, we would like to choose a buffer size that is at least the product of the link speed C and the two-way propagation
+ delay between the sender and the receiver.",Evaluation
+Argue that T is a function of TCP’s average throughput.,Evaluation
+"Do the routers in both datagram networks and virtual-circuit networks use forwarding tables? If so, describe the forwarding tables for both classes of networks.",Analysis
+List some applications that would benefit from ATM’s CBR service model.,Knowledge
+What are the three most important network-layer functions in a virtualcircuit network?,Knowledge
+Describe how packet loss can occur at input ports. Describe how packet loss at input ports can be eliminated (without using infinite buffers).,Comprehension
+Describe how packet loss can occur at output ports. Can this loss be prevented by increasing the switch fabric speed?,Comprehension
+Discuss why each input port in a high-speed router stores a shadow copy of the forwarding table.,Analysis
+What is HOL blocking? Does it occur in input ports or output ports?,Knowledge
+Compare and contrast the IPv4 and the IPv6 header fields. Do they have any fields in common?,Comprehension
+Is it necessary that every autonomous system use the same intra-AS routing algorithm? Why or why not?,Analysis
+Compare and contrast the advertisements used by RIP and OSPF.,Comprehension
+"Define and contrast the following terms: subnet, prefix, and BGP route.",Knowledge
+Describe how a network administrator of an upper-tier ISP can implement policy when configuring BGP.,Comprehension
+What are the roles played by the IGMP protocol and a wide-area multicast routing protocol?,Knowledge
+"Provide a forwarding table that has five entries, uses longest prefix matching, and forwards packets to the correct link interfaces.",Synthesis
+Compute the distance tables after the initialization step and after each iteration of a synchronous version of the distance-vector algorithm,Application
+"Argue that for the distance-vector algorithm in Figure 4.30, each value in the distance vector D(x) is non-increasing and will eventually stabilize in a finite number of steps",Evaluation
+Will a BGP router always choose the loop-free route with the shortest ASpath length? Justify your answer.,Analysis
+Design (give a pseudocode description of) an application-level protocol that maintains the host addresses of all hosts participating in a multicast group.,Synthesis
+Write your own Ping application in Python. Your application will use ICMP. But in order to keep your program simple.,Synthesis
+What is the maximum number of VLANs that can be configured on a switch supporting the 802.1Q protocol? Why?,Knowledge
+"Assuming email usage and video usage are independent, for what fraction of time do (equivalently, what is the probability that) both applications need their fourth rack?",Application
+"If a node has a wireless connection to the Internet, does that node have to be mobile? Explain.",Comprehension
+Analyse and highligth the features of jacob son technologies,Analysis
+"Compare and contrast the object oriented methodlogies of Booch,ruben and jacobson",Analysis
+Can you distinguish for me between what is reasonably achievable and what are exaggerations,Analysis
+"Contrast the treatment of ""well known"" trademarks provided by Paris Article and by TRIPS Article",Analysis
+Design a code snippet to implement LRU cache.,Synthesis
+Write a Java program to find the number of page faults using least recently used (LRU) page replacement algorithm with 3 page frames.,Synthesis
+Write a program that copies the contents of one file to a destination file. This program works by first prompting the user for the name of the source and destination files.,Synthesis
+"Construct a process tree similar to Figure 3.8. To obtain process information for the UNIX or Linux system, use the command ps -ael.",Synthesis
+Create an algorithm that adds an edgeinto the directed graph .,Synthesis
+Create six new practices that are designed to help ensure that an XP project works successfully for significant projects within a large organization.,Synthesis
+Design and illustrate the use case model for activities involved in ordering food in a restaurant from the point when the customer enters a restaurant to the point when he leaves the restaurant,Synthesis
+calculate the probability of a given state sequence. How can the parameters be learned for the case of a observable model?,Application
+Find the dependence between two items X and Y. Given a database of customer transactions.,Application
+Calculate frequency of all elements present in an array of specified range,Application
+Implement DFS traversal of a graph by a recursive function in C.,Application
+"Construct an ER diagram for a car insurance company that has a set of customers, each ofwhom owns one/more cars. Each car has associated with it zero to any number of recorded accidents.",Application
+Solve for the ten following fraction multiplication problems. Please make sure to show all your work.,Application
+Use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.,Application
+Conclude and support which economic system leads to a higher standard of living.,Evaluation
+Construct a poster that will advertise your new food product in an exciting and irresistible way.,Evaluation
+Critique an experimental design or a research proposal.,Evaluation
+"Critique the other student's (or your own) speech, based on the criteria we have studied this semester.",Evaluation
+Decide whether you are in favor of building on a floodplain; defend your position in a debate.,Evaluation
+Decide whether you could have survived on the island blind and alone. Write about things that would have been challenging making sure to,Evaluation
+Revise the story and specify the type of audience that would enjoy this book.,Evaluation
+Estimate the epicentral coordinates of the earth-quake,Evaluation
+Estimate the risk of serious illness for consumers in different susceptible population groups,Evaluation
+Evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4),Evaluation
+Evaluate two Internet sources of information about the Egyptians. Which would be a better choice for your purpose and why?,Evaluation
+Defend your use of a specific strategy in solving the problem.,Evaluation
+Describe the economic consequence of a neolocal society. Support your description with information you have learned from this course.,Evaluation
+Design a healthy menu that you think most people would enjoy using the healthy eating guide.,Evaluation
+Assess the relative effectiveness of different graphical representations of the same data or biological concept.,Evaluation
+Assess the strengths and weaknesses of the current Olympics and recommend action that should be taken in future Olympics: What can be,Evaluation
+"Given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer.",Evaluation

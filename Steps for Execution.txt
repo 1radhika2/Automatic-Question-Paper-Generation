@@ -1,0 +1,7 @@
+Requires IDLE(python 3.7 )
+Required specific libraries and modules to be installed as spcified in the code.
+Run GUI-FINAL.py -- Inputs required - 1. question.pdf (single question prediction)
+			                2. questionpaper.csv (multiple question prediction)
+			                3. qbank1.csv (Entering question bank)
+			                4. percentage of blooms level(20,10,10,20,20,20), No. of Question - 10 (Generate Question Paper)
+Output -- question paper in word format
